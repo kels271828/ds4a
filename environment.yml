@@ -14,14 +14,16 @@ dependencies:
   - bleach=4.1.0=pyhd8ed1ab_0
   - bottleneck=1.3.2=py39he3068b8_1
   - brotli=1.0.9=hb1e8313_2
+  - brotlipy=0.7.0=py39h9ed2024_1003
   - bzip2=1.0.8=h0d85af4_4
   - c-ares=1.17.2=h0d85af4_0
-  - ca-certificates=2021.5.30=h033912b_0
+  - ca-certificates=2021.7.5=hecd8cb5_1
   - cairo=1.16.0=he43a7df_1008
   - camelot-py=0.9.0=pyhd8ed1ab_0
-  - certifi=2021.5.30=py39h6e9494a_0
+  - certifi=2021.5.30=py39hecd8cb5_0
   - cffi=1.14.6=py39hb71fe58_0
   - chardet=4.0.0=py39h6e9494a_1
+  - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - click=8.0.1=py39h6e9494a_0
   - cryptography=3.4.7=py39ha2c9959_0
   - cycler=0.10.0=py39hecd8cb5_0
@@ -42,6 +44,7 @@ dependencies:
   - harfbuzz=2.9.1=h159f659_0
   - hdf5=1.10.6=nompi_hc5d9132_1114
   - icu=68.1=h74dc148_0
+  - idna=3.2=pyhd3eb1b0_0
   - importlib-metadata=4.8.1=py39h6e9494a_0
   - intel-openmp=2021.3.0=hecd8cb5_3375
   - ipykernel=6.4.1=py39h71a6800_0
@@ -108,7 +111,7 @@ dependencies:
   - openh264=2.1.1=hfd3ada9_0
   - openjpeg=2.4.0=h66ea3da_0
   - openpyxl=3.0.9=pyhd8ed1ab_0
-  - openssl=1.1.1l=h0d85af4_0
+  - openssl=1.1.1l=h9ed2024_0
   - packaging=21.0=pyhd8ed1ab_0
   - pandas=1.3.2=py39h5008ddb_0
   - pandoc=2.14.2=h0d85af4_0
@@ -128,15 +131,18 @@ dependencies:
   - pycparser=2.20=pyh9f0ad1d_2
   - pycryptodome=3.10.4=py39hc1b4f52_0
   - pygments=2.10.0=pyhd8ed1ab_0
+  - pyopenssl=20.0.1=pyhd3eb1b0_1
   - pyparsing=2.4.7=pyhd3eb1b0_0
   - pypdf2=1.26.0=py_2
   - pyrsistent=0.17.3=py39h89e85a6_2
+  - pysocks=1.7.1=py39hecd8cb5_0
   - python=3.9.7=h88f2d9e_1
   - python-dateutil=2.8.2=pyhd3eb1b0_0
   - python_abi=3.9=2_cp39
   - pytz=2021.1=pyhd3eb1b0_0
   - pyzmq=22.3.0=py39h7fec2f1_0
   - readline=8.1=h9ed2024_0
+  - requests=2.26.0=pyhd3eb1b0_0
   - send2trash=1.8.0=pyhd8ed1ab_0
   - setuptools=58.0.4=py39hecd8cb5_0
   - six=1.16.0=pyhd3eb1b0_0
@@ -148,6 +154,7 @@ dependencies:
   - tornado=6.1=py39h9ed2024_0
   - traitlets=5.1.0=pyhd8ed1ab_0
   - tzdata=2021a=h5d7bf9c_0
+  - urllib3=1.26.6=pyhd3eb1b0_1
   - wcwidth=0.2.5=pyh9f0ad1d_2
   - webencodings=0.5.1=py_1
   - wheel=0.37.0=pyhd3eb1b0_1
