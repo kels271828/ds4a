@@ -1,0 +1,545 @@
+"Notes"	"State"	"State Code"	"Time of Day"	"Time of Day Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"00:00 - 02:59"	"0"	43	3439	12.50
+	"Alabama"	"01"	"03:00 - 05:59"	"1"	46	3436	13.39
+	"Alabama"	"01"	"06:00 - 08:59"	"2"	45	9198	4.89
+	"Alabama"	"01"	"09:00 - 11:59"	"3"	60	9454	6.35
+	"Alabama"	"01"	"12:00 - 14:59"	"4"	58	11720	4.95
+	"Alabama"	"01"	"15:00 - 17:59"	"5"	53	9159	5.79
+	"Alabama"	"01"	"18:00 - 20:59"	"6"	45	6661	6.76
+	"Alabama"	"01"	"21:00 - 23:59"	"7"	51	4694	10.86
+	"Alabama"	"01"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"00:00 - 02:59"	"0"	Suppressed	1120	Suppressed
+	"Alaska"	"02"	"03:00 - 05:59"	"1"	Suppressed	1095	Suppressed
+	"Alaska"	"02"	"06:00 - 08:59"	"2"	11	1580	6.96 (Unreliable)
+	"Alaska"	"02"	"09:00 - 11:59"	"3"	Suppressed	1422	Suppressed
+	"Alaska"	"02"	"12:00 - 14:59"	"4"	Suppressed	1315	Suppressed
+	"Alaska"	"02"	"15:00 - 17:59"	"5"	Suppressed	1244	Suppressed
+	"Alaska"	"02"	"18:00 - 20:59"	"6"	Suppressed	1157	Suppressed
+	"Alaska"	"02"	"21:00 - 23:59"	"7"	11	1146	9.60 (Unreliable)
+	"Alaska"	"02"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Arizona"	"04"	"00:00 - 02:59"	"0"	53	7901	6.71
+	"Arizona"	"04"	"03:00 - 05:59"	"1"	45	7814	5.76
+	"Arizona"	"04"	"06:00 - 08:59"	"2"	64	11073	5.78
+	"Arizona"	"04"	"09:00 - 11:59"	"3"	69	12056	5.72
+	"Arizona"	"04"	"12:00 - 14:59"	"4"	74	12367	5.98
+	"Arizona"	"04"	"15:00 - 17:59"	"5"	52	11005	4.73
+	"Arizona"	"04"	"18:00 - 20:59"	"6"	55	9713	5.66
+	"Arizona"	"04"	"21:00 - 23:59"	"7"	48	8786	5.46
+	"Arizona"	"04"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Arizona"	"04"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Arkansas"	"05"	"00:00 - 02:59"	"0"	24	2618	9.17
+	"Arkansas"	"05"	"03:00 - 05:59"	"1"	31	2497	12.41
+	"Arkansas"	"05"	"06:00 - 08:59"	"2"	36	5357	6.72
+	"Arkansas"	"05"	"09:00 - 11:59"	"3"	46	6047	7.61
+	"Arkansas"	"05"	"12:00 - 14:59"	"4"	44	7057	6.23
+	"Arkansas"	"05"	"15:00 - 17:59"	"5"	40	5820	6.87
+	"Arkansas"	"05"	"18:00 - 20:59"	"6"	26	4237	6.14
+	"Arkansas"	"05"	"21:00 - 23:59"	"7"	29	3382	8.57
+	"Arkansas"	"05"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Arkansas"	"05"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"California"	"06"	"00:00 - 02:59"	"0"	224	44444	5.04
+	"California"	"06"	"03:00 - 05:59"	"1"	198	44290	4.47
+	"California"	"06"	"06:00 - 08:59"	"2"	233	63526	3.67
+	"California"	"06"	"09:00 - 11:59"	"3"	267	67814	3.94
+	"California"	"06"	"12:00 - 14:59"	"4"	250	69621	3.59
+	"California"	"06"	"15:00 - 17:59"	"5"	259	60118	4.31
+	"California"	"06"	"18:00 - 20:59"	"6"	260	54727	4.75
+	"California"	"06"	"21:00 - 23:59"	"7"	222	50324	4.41
+	"California"	"06"	"Unknown or Not Stated"	"33"	Suppressed	56	Suppressed
+	"California"	"06"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Colorado"	"08"	"00:00 - 02:59"	"0"	30	6493	4.62
+	"Colorado"	"08"	"03:00 - 05:59"	"1"	32	6059	5.28
+	"Colorado"	"08"	"06:00 - 08:59"	"2"	33	8825	3.74
+	"Colorado"	"08"	"09:00 - 11:59"	"3"	49	8777	5.58
+	"Colorado"	"08"	"12:00 - 14:59"	"4"	38	9273	4.10
+	"Colorado"	"08"	"15:00 - 17:59"	"5"	43	8602	5.00
+	"Colorado"	"08"	"18:00 - 20:59"	"6"	41	7622	5.38
+	"Colorado"	"08"	"21:00 - 23:59"	"7"	30	7229	4.15
+	"Colorado"	"08"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Colorado"	"08"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"00:00 - 02:59"	"0"	10	3460	2.89 (Unreliable)
+	"Connecticut"	"09"	"03:00 - 05:59"	"1"	25	3293	7.59
+	"Connecticut"	"09"	"06:00 - 08:59"	"2"	11	4877	2.26 (Unreliable)
+	"Connecticut"	"09"	"09:00 - 11:59"	"3"	16	5339	3.00 (Unreliable)
+	"Connecticut"	"09"	"12:00 - 14:59"	"4"	21	5063	4.15
+	"Connecticut"	"09"	"15:00 - 17:59"	"5"	25	4541	5.51
+	"Connecticut"	"09"	"18:00 - 20:59"	"6"	21	4138	5.07
+	"Connecticut"	"09"	"21:00 - 23:59"	"7"	17	4013	4.24 (Unreliable)
+	"Connecticut"	"09"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"00:00 - 02:59"	"0"	Suppressed	1033	Suppressed
+	"Delaware"	"10"	"03:00 - 05:59"	"1"	Suppressed	977	Suppressed
+	"Delaware"	"10"	"06:00 - 08:59"	"2"	11	1476	7.45 (Unreliable)
+	"Delaware"	"10"	"09:00 - 11:59"	"3"	Suppressed	1492	Suppressed
+	"Delaware"	"10"	"12:00 - 14:59"	"4"	10	1671	5.98 (Unreliable)
+	"Delaware"	"10"	"15:00 - 17:59"	"5"	Suppressed	1517	Suppressed
+	"Delaware"	"10"	"18:00 - 20:59"	"6"	Suppressed	1322	Suppressed
+	"Delaware"	"10"	"21:00 - 23:59"	"7"	10	1132	8.83 (Unreliable)
+	"Delaware"	"10"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"00:00 - 02:59"	"0"	Suppressed	1011	Suppressed
+	"District of Columbia"	"11"	"03:00 - 05:59"	"1"	Suppressed	1009	Suppressed
+	"District of Columbia"	"11"	"06:00 - 08:59"	"2"	13	976	13.32 (Unreliable)
+	"District of Columbia"	"11"	"09:00 - 11:59"	"3"	Suppressed	1383	Suppressed
+	"District of Columbia"	"11"	"12:00 - 14:59"	"4"	Suppressed	1331	Suppressed
+	"District of Columbia"	"11"	"15:00 - 17:59"	"5"	Suppressed	1229	Suppressed
+	"District of Columbia"	"11"	"18:00 - 20:59"	"6"	Suppressed	1131	Suppressed
+	"District of Columbia"	"11"	"21:00 - 23:59"	"7"	Suppressed	1141	Suppressed
+	"District of Columbia"	"11"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Florida"	"12"	"00:00 - 02:59"	"0"	134	18579	7.21
+	"Florida"	"12"	"03:00 - 05:59"	"1"	115	17475	6.58
+	"Florida"	"12"	"06:00 - 08:59"	"2"	157	29824	5.26
+	"Florida"	"12"	"09:00 - 11:59"	"3"	224	34627	6.47
+	"Florida"	"12"	"12:00 - 14:59"	"4"	206	38160	5.40
+	"Florida"	"12"	"15:00 - 17:59"	"5"	195	32844	5.94
+	"Florida"	"12"	"18:00 - 20:59"	"6"	146	27220	5.36
+	"Florida"	"12"	"21:00 - 23:59"	"7"	158	22803	6.93
+	"Florida"	"12"	"Unknown or Not Stated"	"33"	Suppressed	10	Suppressed
+	"Florida"	"12"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Georgia"	"13"	"00:00 - 02:59"	"0"	83	10558	7.86
+	"Georgia"	"13"	"03:00 - 05:59"	"1"	60	10052	5.97
+	"Georgia"	"13"	"06:00 - 08:59"	"2"	109	16863	6.46
+	"Georgia"	"13"	"09:00 - 11:59"	"3"	129	18897	6.83
+	"Georgia"	"13"	"12:00 - 14:59"	"4"	159	21483	7.40
+	"Georgia"	"13"	"15:00 - 17:59"	"5"	138	19260	7.17
+	"Georgia"	"13"	"18:00 - 20:59"	"6"	115	15906	7.23
+	"Georgia"	"13"	"21:00 - 23:59"	"7"	95	13152	7.22
+	"Georgia"	"13"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Georgia"	"13"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Hawaii"	"15"	"00:00 - 02:59"	"0"	14	1829	7.65 (Unreliable)
+	"Hawaii"	"15"	"03:00 - 05:59"	"1"	13	1724	7.54 (Unreliable)
+	"Hawaii"	"15"	"06:00 - 08:59"	"2"	11	2418	4.55 (Unreliable)
+	"Hawaii"	"15"	"09:00 - 11:59"	"3"	13	2259	5.75 (Unreliable)
+	"Hawaii"	"15"	"12:00 - 14:59"	"4"	13	2398	5.42 (Unreliable)
+	"Hawaii"	"15"	"15:00 - 17:59"	"5"	18	2225	8.09 (Unreliable)
+	"Hawaii"	"15"	"18:00 - 20:59"	"6"	18	2088	8.62 (Unreliable)
+	"Hawaii"	"15"	"21:00 - 23:59"	"7"	14	2030	6.90 (Unreliable)
+	"Hawaii"	"15"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Hawaii"	"15"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"00:00 - 02:59"	"0"	11	1975	5.57 (Unreliable)
+	"Idaho"	"16"	"03:00 - 05:59"	"1"	13	1749	7.43 (Unreliable)
+	"Idaho"	"16"	"06:00 - 08:59"	"2"	14	3150	4.44 (Unreliable)
+	"Idaho"	"16"	"09:00 - 11:59"	"3"	11	2603	4.23 (Unreliable)
+	"Idaho"	"16"	"12:00 - 14:59"	"4"	11	3391	3.24 (Unreliable)
+	"Idaho"	"16"	"15:00 - 17:59"	"5"	21	3334	6.30
+	"Idaho"	"16"	"18:00 - 20:59"	"6"	13	2783	4.67 (Unreliable)
+	"Idaho"	"16"	"21:00 - 23:59"	"7"	13	2416	5.38 (Unreliable)
+	"Idaho"	"16"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Illinois"	"17"	"00:00 - 02:59"	"0"	112	13363	8.38
+	"Illinois"	"17"	"03:00 - 05:59"	"1"	84	12559	6.69
+	"Illinois"	"17"	"06:00 - 08:59"	"2"	105	19754	5.32
+	"Illinois"	"17"	"09:00 - 11:59"	"3"	128	21391	5.98
+	"Illinois"	"17"	"12:00 - 14:59"	"4"	157	22102	7.10
+	"Illinois"	"17"	"15:00 - 17:59"	"5"	129	20872	6.18
+	"Illinois"	"17"	"18:00 - 20:59"	"6"	103	18594	5.54
+	"Illinois"	"17"	"21:00 - 23:59"	"7"	131	16177	8.10
+	"Illinois"	"17"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Illinois"	"17"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"00:00 - 02:59"	"0"	66	7277	9.07
+	"Indiana"	"18"	"03:00 - 05:59"	"1"	40	6596	6.06
+	"Indiana"	"18"	"06:00 - 08:59"	"2"	70	11755	5.95
+	"Indiana"	"18"	"09:00 - 11:59"	"3"	68	11758	5.78
+	"Indiana"	"18"	"12:00 - 14:59"	"4"	83	13367	6.21
+	"Indiana"	"18"	"15:00 - 17:59"	"5"	93	12167	7.64
+	"Indiana"	"18"	"18:00 - 20:59"	"6"	76	10261	7.41
+	"Indiana"	"18"	"21:00 - 23:59"	"7"	52	8455	6.15
+	"Indiana"	"18"	"Unknown or Not Stated"	"33"	Suppressed	10	Suppressed
+	"Indiana"	"18"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"00:00 - 02:59"	"0"	15	3435	4.37 (Unreliable)
+	"Iowa"	"19"	"03:00 - 05:59"	"1"	20	3275	6.11
+	"Iowa"	"19"	"06:00 - 08:59"	"2"	24	5630	4.26
+	"Iowa"	"19"	"09:00 - 11:59"	"3"	31	5291	5.86
+	"Iowa"	"19"	"12:00 - 14:59"	"4"	27	5769	4.68
+	"Iowa"	"19"	"15:00 - 17:59"	"5"	31	5451	5.69
+	"Iowa"	"19"	"18:00 - 20:59"	"6"	15	4779	3.14 (Unreliable)
+	"Iowa"	"19"	"21:00 - 23:59"	"7"	25	4154	6.02
+	"Iowa"	"19"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"00:00 - 02:59"	"0"	37	2826	13.09
+	"Kansas"	"20"	"03:00 - 05:59"	"1"	15	2564	5.85 (Unreliable)
+	"Kansas"	"20"	"06:00 - 08:59"	"2"	27	5445	4.96
+	"Kansas"	"20"	"09:00 - 11:59"	"3"	26	5160	5.04
+	"Kansas"	"20"	"12:00 - 14:59"	"4"	38	6526	5.82
+	"Kansas"	"20"	"15:00 - 17:59"	"5"	29	5708	5.08
+	"Kansas"	"20"	"18:00 - 20:59"	"6"	33	4487	7.35
+	"Kansas"	"20"	"21:00 - 23:59"	"7"	26	3545	7.33
+	"Kansas"	"20"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Kentucky"	"21"	"00:00 - 02:59"	"0"	25	4274	5.85
+	"Kentucky"	"21"	"03:00 - 05:59"	"1"	35	3744	9.35
+	"Kentucky"	"21"	"06:00 - 08:59"	"2"	37	7194	5.14
+	"Kentucky"	"21"	"09:00 - 11:59"	"3"	64	8533	7.50
+	"Kentucky"	"21"	"12:00 - 14:59"	"4"	50	9429	5.30
+	"Kentucky"	"21"	"15:00 - 17:59"	"5"	44	8456	5.20
+	"Kentucky"	"21"	"18:00 - 20:59"	"6"	43	6741	6.38
+	"Kentucky"	"21"	"21:00 - 23:59"	"7"	27	5546	4.87
+	"Kentucky"	"21"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Kentucky"	"21"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"00:00 - 02:59"	"0"	40	3678	10.88
+	"Louisiana"	"22"	"03:00 - 05:59"	"1"	35	3479	10.06
+	"Louisiana"	"22"	"06:00 - 08:59"	"2"	53	9555	5.55
+	"Louisiana"	"22"	"09:00 - 11:59"	"3"	84	9684	8.67
+	"Louisiana"	"22"	"12:00 - 14:59"	"4"	79	11929	6.62
+	"Louisiana"	"22"	"15:00 - 17:59"	"5"	62	9528	6.51
+	"Louisiana"	"22"	"18:00 - 20:59"	"6"	62	6914	8.97
+	"Louisiana"	"22"	"21:00 - 23:59"	"7"	41	4848	8.46
+	"Louisiana"	"22"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"00:00 - 02:59"	"0"	Suppressed	1276	Suppressed
+	"Maine"	"23"	"03:00 - 05:59"	"1"	Suppressed	1138	Suppressed
+	"Maine"	"23"	"06:00 - 08:59"	"2"	Suppressed	1850	Suppressed
+	"Maine"	"23"	"09:00 - 11:59"	"3"	12	1763	6.81 (Unreliable)
+	"Maine"	"23"	"12:00 - 14:59"	"4"	11	1636	6.72 (Unreliable)
+	"Maine"	"23"	"15:00 - 17:59"	"5"	12	1635	7.34 (Unreliable)
+	"Maine"	"23"	"18:00 - 20:59"	"6"	Suppressed	1588	Suppressed
+	"Maine"	"23"	"21:00 - 23:59"	"7"	Suppressed	1423	Suppressed
+	"Maine"	"23"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"00:00 - 02:59"	"0"	42	7185	5.85
+	"Maryland"	"24"	"03:00 - 05:59"	"1"	45	6756	6.66
+	"Maryland"	"24"	"06:00 - 08:59"	"2"	42	8647	4.86
+	"Maryland"	"24"	"09:00 - 11:59"	"3"	58	10862	5.34
+	"Maryland"	"24"	"12:00 - 14:59"	"4"	61	10460	5.83
+	"Maryland"	"24"	"15:00 - 17:59"	"5"	68	10108	6.73
+	"Maryland"	"24"	"18:00 - 20:59"	"6"	55	8953	6.14
+	"Maryland"	"24"	"21:00 - 23:59"	"7"	56	8107	6.91
+	"Maryland"	"24"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"00:00 - 02:59"	"0"	44	7525	5.85
+	"Massachusetts"	"25"	"03:00 - 05:59"	"1"	38	7107	5.35
+	"Massachusetts"	"25"	"06:00 - 08:59"	"2"	32	9068	3.53
+	"Massachusetts"	"25"	"09:00 - 11:59"	"3"	32	10677	3.00
+	"Massachusetts"	"25"	"12:00 - 14:59"	"4"	32	9842	3.25
+	"Massachusetts"	"25"	"15:00 - 17:59"	"5"	46	8738	5.26
+	"Massachusetts"	"25"	"18:00 - 20:59"	"6"	26	8054	3.23
+	"Massachusetts"	"25"	"21:00 - 23:59"	"7"	38	8098	4.69
+	"Massachusetts"	"25"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"00:00 - 02:59"	"0"	74	10818	6.84
+	"Michigan"	"26"	"03:00 - 05:59"	"1"	60	10408	5.76
+	"Michigan"	"26"	"06:00 - 08:59"	"2"	69	15051	4.58
+	"Michigan"	"26"	"09:00 - 11:59"	"3"	98	16814	5.83
+	"Michigan"	"26"	"12:00 - 14:59"	"4"	98	16590	5.91
+	"Michigan"	"26"	"15:00 - 17:59"	"5"	103	15046	6.85
+	"Michigan"	"26"	"18:00 - 20:59"	"6"	97	13012	7.45
+	"Michigan"	"26"	"21:00 - 23:59"	"7"	84	12288	6.84
+	"Michigan"	"26"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Minnesota"	"27"	"00:00 - 02:59"	"0"	37	6810	5.43
+	"Minnesota"	"27"	"03:00 - 05:59"	"1"	35	6518	5.37
+	"Minnesota"	"27"	"06:00 - 08:59"	"2"	44	9338	4.71
+	"Minnesota"	"27"	"09:00 - 11:59"	"3"	39	9504	4.10
+	"Minnesota"	"27"	"12:00 - 14:59"	"4"	46	10019	4.59
+	"Minnesota"	"27"	"15:00 - 17:59"	"5"	46	9101	5.05
+	"Minnesota"	"27"	"18:00 - 20:59"	"6"	49	8343	5.87
+	"Minnesota"	"27"	"21:00 - 23:59"	"7"	43	7694	5.59
+	"Minnesota"	"27"	"Unknown or Not Stated"	"33"	Suppressed	17	Suppressed
+	"Minnesota"	"27"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"00:00 - 02:59"	"0"	34	2054	16.55
+	"Mississippi"	"28"	"03:00 - 05:59"	"1"	24	2011	11.93
+	"Mississippi"	"28"	"06:00 - 08:59"	"2"	32	5460	5.86
+	"Mississippi"	"28"	"09:00 - 11:59"	"3"	45	5986	7.52
+	"Mississippi"	"28"	"12:00 - 14:59"	"4"	44	7873	5.59
+	"Mississippi"	"28"	"15:00 - 17:59"	"5"	52	6337	8.21
+	"Mississippi"	"28"	"18:00 - 20:59"	"6"	45	4378	10.28
+	"Mississippi"	"28"	"21:00 - 23:59"	"7"	35	2899	12.07
+	"Mississippi"	"28"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Missouri"	"29"	"00:00 - 02:59"	"0"	49	6260	7.83
+	"Missouri"	"29"	"03:00 - 05:59"	"1"	45	6008	7.49
+	"Missouri"	"29"	"06:00 - 08:59"	"2"	50	10594	4.72
+	"Missouri"	"29"	"09:00 - 11:59"	"3"	65	11056	5.88
+	"Missouri"	"29"	"12:00 - 14:59"	"4"	73	12434	5.87
+	"Missouri"	"29"	"15:00 - 17:59"	"5"	64	10771	5.94
+	"Missouri"	"29"	"18:00 - 20:59"	"6"	56	8665	6.46
+	"Missouri"	"29"	"21:00 - 23:59"	"7"	60	7466	8.04
+	"Missouri"	"29"	"Unknown or Not Stated"	"33"	Suppressed	15	Suppressed
+	"Missouri"	"29"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"00:00 - 02:59"	"0"	Suppressed	1032	Suppressed
+	"Montana"	"30"	"03:00 - 05:59"	"1"	Suppressed	952	Suppressed
+	"Montana"	"30"	"06:00 - 08:59"	"2"	10	1818	5.50 (Unreliable)
+	"Montana"	"30"	"09:00 - 11:59"	"3"	Suppressed	1422	Suppressed
+	"Montana"	"30"	"12:00 - 14:59"	"4"	Suppressed	1776	Suppressed
+	"Montana"	"30"	"15:00 - 17:59"	"5"	Suppressed	1678	Suppressed
+	"Montana"	"30"	"18:00 - 20:59"	"6"	10	1487	6.72 (Unreliable)
+	"Montana"	"30"	"21:00 - 23:59"	"7"	Suppressed	1348	Suppressed
+	"Montana"	"30"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"00:00 - 02:59"	"0"	17	2144	7.93 (Unreliable)
+	"Nebraska"	"31"	"03:00 - 05:59"	"1"	12	1948	6.16 (Unreliable)
+	"Nebraska"	"31"	"06:00 - 08:59"	"2"	18	3935	4.57 (Unreliable)
+	"Nebraska"	"31"	"09:00 - 11:59"	"3"	14	3430	4.08 (Unreliable)
+	"Nebraska"	"31"	"12:00 - 14:59"	"4"	27	4301	6.28
+	"Nebraska"	"31"	"15:00 - 17:59"	"5"	17	4025	4.22 (Unreliable)
+	"Nebraska"	"31"	"18:00 - 20:59"	"6"	17	3208	5.30 (Unreliable)
+	"Nebraska"	"31"	"21:00 - 23:59"	"7"	24	2496	9.62
+	"Nebraska"	"31"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Nevada"	"32"	"00:00 - 02:59"	"0"	22	3188	6.90
+	"Nevada"	"32"	"03:00 - 05:59"	"1"	20	3178	6.29
+	"Nevada"	"32"	"06:00 - 08:59"	"2"	18	5121	3.51 (Unreliable)
+	"Nevada"	"32"	"09:00 - 11:59"	"3"	28	5351	5.23
+	"Nevada"	"32"	"12:00 - 14:59"	"4"	34	5540	6.14
+	"Nevada"	"32"	"15:00 - 17:59"	"5"	39	5061	7.71
+	"Nevada"	"32"	"18:00 - 20:59"	"6"	36	4375	8.23
+	"Nevada"	"32"	"21:00 - 23:59"	"7"	22	3866	5.69
+	"Nevada"	"32"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Nevada"	"32"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"00:00 - 02:59"	"0"	Suppressed	1294	Suppressed
+	"New Hampshire"	"33"	"03:00 - 05:59"	"1"	Suppressed	1143	Suppressed
+	"New Hampshire"	"33"	"06:00 - 08:59"	"2"	Suppressed	1804	Suppressed
+	"New Hampshire"	"33"	"09:00 - 11:59"	"3"	Suppressed	1655	Suppressed
+	"New Hampshire"	"33"	"12:00 - 14:59"	"4"	Suppressed	1684	Suppressed
+	"New Hampshire"	"33"	"15:00 - 17:59"	"5"	Suppressed	1548	Suppressed
+	"New Hampshire"	"33"	"18:00 - 20:59"	"6"	Suppressed	1485	Suppressed
+	"New Hampshire"	"33"	"21:00 - 23:59"	"7"	Suppressed	1382	Suppressed
+	"New Hampshire"	"33"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"00:00 - 02:59"	"0"	40	9814	4.08
+	"New Jersey"	"34"	"03:00 - 05:59"	"1"	39	9017	4.33
+	"New Jersey"	"34"	"06:00 - 08:59"	"2"	47	12450	3.78
+	"New Jersey"	"34"	"09:00 - 11:59"	"3"	52	16323	3.19
+	"New Jersey"	"34"	"12:00 - 14:59"	"4"	54	15489	3.49
+	"New Jersey"	"34"	"15:00 - 17:59"	"5"	49	14303	3.43
+	"New Jersey"	"34"	"18:00 - 20:59"	"6"	56	12368	4.53
+	"New Jersey"	"34"	"21:00 - 23:59"	"7"	47	11457	4.10
+	"New Jersey"	"34"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"New Mexico"	"35"	"00:00 - 02:59"	"0"	17	2568	6.62 (Unreliable)
+	"New Mexico"	"35"	"03:00 - 05:59"	"1"	14	2280	6.14 (Unreliable)
+	"New Mexico"	"35"	"06:00 - 08:59"	"2"	12	3147	3.81 (Unreliable)
+	"New Mexico"	"35"	"09:00 - 11:59"	"3"	14	3178	4.41 (Unreliable)
+	"New Mexico"	"35"	"12:00 - 14:59"	"4"	22	3223	6.83
+	"New Mexico"	"35"	"15:00 - 17:59"	"5"	23	3062	7.51
+	"New Mexico"	"35"	"18:00 - 20:59"	"6"	15	2782	5.39 (Unreliable)
+	"New Mexico"	"35"	"21:00 - 23:59"	"7"	13	2798	4.65 (Unreliable)
+	"New Mexico"	"35"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"New Mexico"	"35"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"New York"	"36"	"00:00 - 02:59"	"0"	124	23148	5.36
+	"New York"	"36"	"03:00 - 05:59"	"1"	106	22273	4.76
+	"New York"	"36"	"06:00 - 08:59"	"2"	93	28695	3.24
+	"New York"	"36"	"09:00 - 11:59"	"3"	137	35915	3.81
+	"New York"	"36"	"12:00 - 14:59"	"4"	149	33289	4.48
+	"New York"	"36"	"15:00 - 17:59"	"5"	139	30369	4.58
+	"New York"	"36"	"18:00 - 20:59"	"6"	119	26739	4.45
+	"New York"	"36"	"21:00 - 23:59"	"7"	110	25809	4.26
+	"New York"	"36"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"New York"	"36"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"00:00 - 02:59"	"0"	105	11933	8.80
+	"North Carolina"	"37"	"03:00 - 05:59"	"1"	78	10994	7.09
+	"North Carolina"	"37"	"06:00 - 08:59"	"2"	93	15994	5.81
+	"North Carolina"	"37"	"09:00 - 11:59"	"3"	108	17463	6.18
+	"North Carolina"	"37"	"12:00 - 14:59"	"4"	117	18178	6.44
+	"North Carolina"	"37"	"15:00 - 17:59"	"5"	103	16304	6.32
+	"North Carolina"	"37"	"18:00 - 20:59"	"6"	103	14747	6.98
+	"North Carolina"	"37"	"21:00 - 23:59"	"7"	96	13341	7.20
+	"North Carolina"	"37"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"00:00 - 02:59"	"0"	Suppressed	1073	Suppressed
+	"North Dakota"	"38"	"03:00 - 05:59"	"1"	Suppressed	906	Suppressed
+	"North Dakota"	"38"	"06:00 - 08:59"	"2"	Suppressed	1588	Suppressed
+	"North Dakota"	"38"	"09:00 - 11:59"	"3"	Suppressed	1346	Suppressed
+	"North Dakota"	"38"	"12:00 - 14:59"	"4"	Suppressed	1669	Suppressed
+	"North Dakota"	"38"	"15:00 - 17:59"	"5"	10	1500	6.67 (Unreliable)
+	"North Dakota"	"38"	"18:00 - 20:59"	"6"	11	1411	7.80 (Unreliable)
+	"North Dakota"	"38"	"21:00 - 23:59"	"7"	Suppressed	1143	Suppressed
+	"North Dakota"	"38"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"00:00 - 02:59"	"0"	101	12724	7.94
+	"Ohio"	"39"	"03:00 - 05:59"	"1"	96	12111	7.93
+	"Ohio"	"39"	"06:00 - 08:59"	"2"	116	18283	6.34
+	"Ohio"	"39"	"09:00 - 11:59"	"3"	161	20224	7.96
+	"Ohio"	"39"	"12:00 - 14:59"	"4"	110	21312	5.16
+	"Ohio"	"39"	"15:00 - 17:59"	"5"	125	19235	6.50
+	"Ohio"	"39"	"18:00 - 20:59"	"6"	116	16717	6.94
+	"Ohio"	"39"	"21:00 - 23:59"	"7"	99	14509	6.82
+	"Ohio"	"39"	"Unknown or Not Stated"	"33"	11	19	578.95 (Unreliable)
+	"Ohio"	"39"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Oklahoma"	"40"	"00:00 - 02:59"	"0"	34	3554	9.57
+	"Oklahoma"	"40"	"03:00 - 05:59"	"1"	41	3310	12.39
+	"Oklahoma"	"40"	"06:00 - 08:59"	"2"	42	7390	5.68
+	"Oklahoma"	"40"	"09:00 - 11:59"	"3"	44	7666	5.74
+	"Oklahoma"	"40"	"12:00 - 14:59"	"4"	63	9305	6.77
+	"Oklahoma"	"40"	"15:00 - 17:59"	"5"	59	7839	7.53
+	"Oklahoma"	"40"	"18:00 - 20:59"	"6"	33	6003	5.50
+	"Oklahoma"	"40"	"21:00 - 23:59"	"7"	33	4730	6.98
+	"Oklahoma"	"40"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Oklahoma"	"40"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Oregon"	"41"	"00:00 - 02:59"	"0"	16	4324	3.70 (Unreliable)
+	"Oregon"	"41"	"03:00 - 05:59"	"1"	16	4172	3.84 (Unreliable)
+	"Oregon"	"41"	"06:00 - 08:59"	"2"	20	6073	3.29
+	"Oregon"	"41"	"09:00 - 11:59"	"3"	27	5872	4.60
+	"Oregon"	"41"	"12:00 - 14:59"	"4"	27	5943	4.54
+	"Oregon"	"41"	"15:00 - 17:59"	"5"	19	5443	3.49 (Unreliable)
+	"Oregon"	"41"	"18:00 - 20:59"	"6"	24	5287	4.54
+	"Oregon"	"41"	"21:00 - 23:59"	"7"	28	5070	5.52
+	"Oregon"	"41"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Oregon"	"41"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"00:00 - 02:59"	"0"	86	13569	6.34
+	"Pennsylvania"	"42"	"03:00 - 05:59"	"1"	90	12869	6.99
+	"Pennsylvania"	"42"	"06:00 - 08:59"	"2"	103	17744	5.80
+	"Pennsylvania"	"42"	"09:00 - 11:59"	"3"	123	21250	5.79
+	"Pennsylvania"	"42"	"12:00 - 14:59"	"4"	107	20239	5.29
+	"Pennsylvania"	"42"	"15:00 - 17:59"	"5"	102	18732	5.45
+	"Pennsylvania"	"42"	"18:00 - 20:59"	"6"	94	16158	5.82
+	"Pennsylvania"	"42"	"21:00 - 23:59"	"7"	95	15098	6.29
+	"Pennsylvania"	"42"	"Unknown or Not Stated"	"33"	Suppressed	14	Suppressed
+	"Pennsylvania"	"42"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"00:00 - 02:59"	"0"	Suppressed	1076	Suppressed
+	"Rhode Island"	"44"	"03:00 - 05:59"	"1"	Suppressed	1021	Suppressed
+	"Rhode Island"	"44"	"06:00 - 08:59"	"2"	Suppressed	1428	Suppressed
+	"Rhode Island"	"44"	"09:00 - 11:59"	"3"	10	1537	6.51 (Unreliable)
+	"Rhode Island"	"44"	"12:00 - 14:59"	"4"	Suppressed	1570	Suppressed
+	"Rhode Island"	"44"	"15:00 - 17:59"	"5"	Suppressed	1425	Suppressed
+	"Rhode Island"	"44"	"18:00 - 20:59"	"6"	Suppressed	1260	Suppressed
+	"Rhode Island"	"44"	"21:00 - 23:59"	"7"	Suppressed	1185	Suppressed
+	"Rhode Island"	"44"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"00:00 - 02:59"	"0"	34	4206	8.08
+	"South Carolina"	"45"	"03:00 - 05:59"	"1"	44	3853	11.42
+	"South Carolina"	"45"	"06:00 - 08:59"	"2"	43	7560	5.69
+	"South Carolina"	"45"	"09:00 - 11:59"	"3"	65	9121	7.13
+	"South Carolina"	"45"	"12:00 - 14:59"	"4"	58	10247	5.66
+	"South Carolina"	"45"	"15:00 - 17:59"	"5"	52	8906	5.84
+	"South Carolina"	"45"	"18:00 - 20:59"	"6"	66	7051	9.36
+	"South Carolina"	"45"	"21:00 - 23:59"	"7"	41	5724	7.16
+	"South Carolina"	"45"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"00:00 - 02:59"	"0"	10	1118	8.94 (Unreliable)
+	"South Dakota"	"46"	"03:00 - 05:59"	"1"	Suppressed	1039	Suppressed
+	"South Dakota"	"46"	"06:00 - 08:59"	"2"	13	1747	7.44 (Unreliable)
+	"South Dakota"	"46"	"09:00 - 11:59"	"3"	Suppressed	1595	Suppressed
+	"South Dakota"	"46"	"12:00 - 14:59"	"4"	13	1930	6.74 (Unreliable)
+	"South Dakota"	"46"	"15:00 - 17:59"	"5"	Suppressed	1749	Suppressed
+	"South Dakota"	"46"	"18:00 - 20:59"	"6"	Suppressed	1379	Suppressed
+	"South Dakota"	"46"	"21:00 - 23:59"	"7"	Suppressed	1334	Suppressed
+	"South Dakota"	"46"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Tennessee"	"47"	"00:00 - 02:59"	"0"	49	6266	7.82
+	"Tennessee"	"47"	"03:00 - 05:59"	"1"	52	5703	9.12
+	"Tennessee"	"47"	"06:00 - 08:59"	"2"	76	10548	7.21
+	"Tennessee"	"47"	"09:00 - 11:59"	"3"	93	12235	7.60
+	"Tennessee"	"47"	"12:00 - 14:59"	"4"	82	14916	5.50
+	"Tennessee"	"47"	"15:00 - 17:59"	"5"	82	12896	6.36
+	"Tennessee"	"47"	"18:00 - 20:59"	"6"	65	10141	6.41
+	"Tennessee"	"47"	"21:00 - 23:59"	"7"	54	8028	6.73
+	"Tennessee"	"47"	"Unknown or Not Stated"	"33"	Suppressed	18	Suppressed
+	"Tennessee"	"47"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Texas"	"48"	"00:00 - 02:59"	"0"	189	28226	6.70
+	"Texas"	"48"	"03:00 - 05:59"	"1"	207	26429	7.83
+	"Texas"	"48"	"06:00 - 08:59"	"2"	245	54168	4.52
+	"Texas"	"48"	"09:00 - 11:59"	"3"	316	57939	5.45
+	"Texas"	"48"	"12:00 - 14:59"	"4"	323	71331	4.53
+	"Texas"	"48"	"15:00 - 17:59"	"5"	308	58135	5.30
+	"Texas"	"48"	"18:00 - 20:59"	"6"	249	46433	5.36
+	"Texas"	"48"	"21:00 - 23:59"	"7"	239	35959	6.65
+	"Texas"	"48"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Texas"	"48"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Utah"	"49"	"00:00 - 02:59"	"0"	30	4214	7.12
+	"Utah"	"49"	"03:00 - 05:59"	"1"	27	4050	6.67
+	"Utah"	"49"	"06:00 - 08:59"	"2"	33	6402	5.15
+	"Utah"	"49"	"09:00 - 11:59"	"3"	31	5829	5.32
+	"Utah"	"49"	"12:00 - 14:59"	"4"	31	7858	3.95
+	"Utah"	"49"	"15:00 - 17:59"	"5"	38	7385	5.15
+	"Utah"	"49"	"18:00 - 20:59"	"6"	36	6303	5.71
+	"Utah"	"49"	"21:00 - 23:59"	"7"	31	5167	6.00
+	"Utah"	"49"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Utah"	"49"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"00:00 - 02:59"	"0"	Suppressed	614	Suppressed
+	"Vermont"	"50"	"03:00 - 05:59"	"1"	Suppressed	591	Suppressed
+	"Vermont"	"50"	"06:00 - 08:59"	"2"	Suppressed	718	Suppressed
+	"Vermont"	"50"	"09:00 - 11:59"	"3"	Suppressed	767	Suppressed
+	"Vermont"	"50"	"12:00 - 14:59"	"4"	Suppressed	756	Suppressed
+	"Vermont"	"50"	"15:00 - 17:59"	"5"	Suppressed	664	Suppressed
+	"Vermont"	"50"	"18:00 - 20:59"	"6"	Suppressed	683	Suppressed
+	"Vermont"	"50"	"21:00 - 23:59"	"7"	Suppressed	639	Suppressed
+	"Vermont"	"50"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"00:00 - 02:59"	"0"	69	9289	7.43
+	"Virginia"	"51"	"03:00 - 05:59"	"1"	56	8696	6.44
+	"Virginia"	"51"	"06:00 - 08:59"	"2"	61	12724	4.79
+	"Virginia"	"51"	"09:00 - 11:59"	"3"	83	15047	5.52
+	"Virginia"	"51"	"12:00 - 14:59"	"4"	87	15818	5.50
+	"Virginia"	"51"	"15:00 - 17:59"	"5"	71	14778	4.80
+	"Virginia"	"51"	"18:00 - 20:59"	"6"	76	12581	6.04
+	"Virginia"	"51"	"21:00 - 23:59"	"7"	57	10910	5.22
+	"Virginia"	"51"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Washington"	"53"	"00:00 - 02:59"	"0"	44	9206	4.78
+	"Washington"	"53"	"03:00 - 05:59"	"1"	44	8799	5.00
+	"Washington"	"53"	"06:00 - 08:59"	"2"	48	12269	3.91
+	"Washington"	"53"	"09:00 - 11:59"	"3"	52	11953	4.35
+	"Washington"	"53"	"12:00 - 14:59"	"4"	43	12341	3.48
+	"Washington"	"53"	"15:00 - 17:59"	"5"	65	11161	5.82
+	"Washington"	"53"	"18:00 - 20:59"	"6"	62	10544	5.88
+	"Washington"	"53"	"21:00 - 23:59"	"7"	46	9786	4.70
+	"Washington"	"53"	"Unknown or Not Stated"	"33"	Suppressed	26	Suppressed
+	"Washington"	"53"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"00:00 - 02:59"	"0"	13	1838	7.07 (Unreliable)
+	"West Virginia"	"54"	"03:00 - 05:59"	"1"	14	2152	6.51 (Unreliable)
+	"West Virginia"	"54"	"06:00 - 08:59"	"2"	24	3065	7.83
+	"West Virginia"	"54"	"09:00 - 11:59"	"3"	26	3391	7.67
+	"West Virginia"	"54"	"12:00 - 14:59"	"4"	14	2858	4.90 (Unreliable)
+	"West Virginia"	"54"	"15:00 - 17:59"	"5"	19	1990	9.55 (Unreliable)
+	"West Virginia"	"54"	"18:00 - 20:59"	"6"	Suppressed	1615	Suppressed
+	"West Virginia"	"54"	"21:00 - 23:59"	"7"	Suppressed	1338	Suppressed
+	"West Virginia"	"54"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"00:00 - 02:59"	"0"	45	6127	7.34
+	"Wisconsin"	"55"	"03:00 - 05:59"	"1"	47	5864	8.02
+	"Wisconsin"	"55"	"06:00 - 08:59"	"2"	55	9123	6.03
+	"Wisconsin"	"55"	"09:00 - 11:59"	"3"	46	8550	5.38
+	"Wisconsin"	"55"	"12:00 - 14:59"	"4"	55	9922	5.54
+	"Wisconsin"	"55"	"15:00 - 17:59"	"5"	48	9308	5.16
+	"Wisconsin"	"55"	"18:00 - 20:59"	"6"	48	8068	5.95
+	"Wisconsin"	"55"	"21:00 - 23:59"	"7"	45	7128	6.31
+	"Wisconsin"	"55"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"00:00 - 02:59"	"0"	Suppressed	565	Suppressed
+	"Wyoming"	"56"	"03:00 - 05:59"	"1"	Suppressed	477	Suppressed
+	"Wyoming"	"56"	"06:00 - 08:59"	"2"	Suppressed	1064	Suppressed
+	"Wyoming"	"56"	"09:00 - 11:59"	"3"	Suppressed	783	Suppressed
+	"Wyoming"	"56"	"12:00 - 14:59"	"4"	Suppressed	1039	Suppressed
+	"Wyoming"	"56"	"15:00 - 17:59"	"5"	Suppressed	1001	Suppressed
+	"Wyoming"	"56"	"18:00 - 20:59"	"6"	Suppressed	903	Suppressed
+	"Wyoming"	"56"	"21:00 - 23:59"	"7"	Suppressed	729	Suppressed
+	"Wyoming"	"56"	"Unknown or Not Stated"	"33"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"Not Reported"	"NR"	Suppressed	Suppressed	Suppressed
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2017-2018 Expanded"
+"Query Parameters:"
+"Title: hours"
+"Year of Death: 2018"
+"Group By: State; Time of Day"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd-expanded.html for more information."
+"---"
+"Query Date: Oct 5, 2021 1:10:49 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2017-2018, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current-expanded.html on Oct 5, 2021 1:10:49 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Weight Factors."

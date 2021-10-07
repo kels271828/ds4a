@@ -1,0 +1,392 @@
+"Notes"	"State"	"State Code"	"Weekday"	"Weekday Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"Sunday"	"1"	48	4232	11.34
+	"Alabama"	"01"	"Monday"	"2"	56	9931	5.64
+	"Alabama"	"01"	"Tuesday"	"3"	63	10296	6.12
+	"Alabama"	"01"	"Wednesday"	"4"	49	9800	5.00
+	"Alabama"	"01"	"Thursday"	"5"	79	10060	7.85
+	"Alabama"	"01"	"Friday"	"6"	59	8907	6.62
+	"Alabama"	"01"	"Saturday"	"7"	47	4535	10.36
+	"Alaska"	"02"	"Sunday"	"1"	Suppressed	1214	Suppressed
+	"Alaska"	"02"	"Monday"	"2"	Suppressed	1397	Suppressed
+	"Alaska"	"02"	"Tuesday"	"3"	Suppressed	1568	Suppressed
+	"Alaska"	"02"	"Wednesday"	"4"	11	1526	7.21 (Unreliable)
+	"Alaska"	"02"	"Thursday"	"5"	Suppressed	1533	Suppressed
+	"Alaska"	"02"	"Friday"	"6"	10	1533	6.52 (Unreliable)
+	"Alaska"	"02"	"Saturday"	"7"	12	1315	9.13 (Unreliable)
+	"Arizona"	"04"	"Sunday"	"1"	47	8950	5.25
+	"Arizona"	"04"	"Monday"	"2"	72	11870	6.07
+	"Arizona"	"04"	"Tuesday"	"3"	75	12358	6.07
+	"Arizona"	"04"	"Wednesday"	"4"	59	12637	4.67
+	"Arizona"	"04"	"Thursday"	"5"	68	12458	5.46
+	"Arizona"	"04"	"Friday"	"6"	84	12447	6.75
+	"Arizona"	"04"	"Saturday"	"7"	56	10003	5.60
+	"Arkansas"	"05"	"Sunday"	"1"	33	2919	11.31
+	"Arkansas"	"05"	"Monday"	"2"	40	6119	6.54
+	"Arkansas"	"05"	"Tuesday"	"3"	40	6409	6.24
+	"Arkansas"	"05"	"Wednesday"	"4"	52	6274	8.29
+	"Arkansas"	"05"	"Thursday"	"5"	39	6346	6.15
+	"Arkansas"	"05"	"Friday"	"6"	37	5747	6.44
+	"Arkansas"	"05"	"Saturday"	"7"	36	3204	11.24
+	"California"	"06"	"Sunday"	"1"	238	51149	4.65
+	"California"	"06"	"Monday"	"2"	277	65601	4.22
+	"California"	"06"	"Tuesday"	"3"	278	69443	4.00
+	"California"	"06"	"Wednesday"	"4"	285	69427	4.11
+	"California"	"06"	"Thursday"	"5"	290	70434	4.12
+	"California"	"06"	"Friday"	"6"	283	70905	3.99
+	"California"	"06"	"Saturday"	"7"	267	57961	4.61
+	"Colorado"	"08"	"Sunday"	"1"	27	6715	4.02
+	"Colorado"	"08"	"Monday"	"2"	39	9263	4.21
+	"Colorado"	"08"	"Tuesday"	"3"	42	9710	4.33
+	"Colorado"	"08"	"Wednesday"	"4"	44	9686	4.54
+	"Colorado"	"08"	"Thursday"	"5"	50	9896	5.05
+	"Colorado"	"08"	"Friday"	"6"	60	9922	6.05
+	"Colorado"	"08"	"Saturday"	"7"	37	7693	4.81
+	"Connecticut"	"09"	"Sunday"	"1"	19	3326	5.71 (Unreliable)
+	"Connecticut"	"09"	"Monday"	"2"	16	5242	3.05 (Unreliable)
+	"Connecticut"	"09"	"Tuesday"	"3"	26	5514	4.72
+	"Connecticut"	"09"	"Wednesday"	"4"	21	5555	3.78
+	"Connecticut"	"09"	"Thursday"	"5"	25	5526	4.52
+	"Connecticut"	"09"	"Friday"	"6"	20	5656	3.54
+	"Connecticut"	"09"	"Saturday"	"7"	19	3906	4.86 (Unreliable)
+	"Delaware"	"10"	"Sunday"	"1"	Suppressed	992	Suppressed
+	"Delaware"	"10"	"Monday"	"2"	Suppressed	1587	Suppressed
+	"Delaware"	"10"	"Tuesday"	"3"	Suppressed	1668	Suppressed
+	"Delaware"	"10"	"Wednesday"	"4"	Suppressed	1706	Suppressed
+	"Delaware"	"10"	"Thursday"	"5"	Suppressed	1761	Suppressed
+	"Delaware"	"10"	"Friday"	"6"	11	1686	6.52 (Unreliable)
+	"Delaware"	"10"	"Saturday"	"7"	Suppressed	1221	Suppressed
+	"District of Columbia"	"11"	"Sunday"	"1"	Suppressed	994	Suppressed
+	"District of Columbia"	"11"	"Monday"	"2"	11	1380	7.97 (Unreliable)
+	"District of Columbia"	"11"	"Tuesday"	"3"	13	1412	9.21 (Unreliable)
+	"District of Columbia"	"11"	"Wednesday"	"4"	Suppressed	1349	Suppressed
+	"District of Columbia"	"11"	"Thursday"	"5"	15	1383	10.85 (Unreliable)
+	"District of Columbia"	"11"	"Friday"	"6"	Suppressed	1431	Suppressed
+	"District of Columbia"	"11"	"Saturday"	"7"	Suppressed	1263	Suppressed
+	"Florida"	"12"	"Sunday"	"1"	172	20500	8.39
+	"Florida"	"12"	"Monday"	"2"	191	33846	5.64
+	"Florida"	"12"	"Tuesday"	"3"	211	36061	5.85
+	"Florida"	"12"	"Wednesday"	"4"	204	35647	5.72
+	"Florida"	"12"	"Thursday"	"5"	197	36282	5.43
+	"Florida"	"12"	"Friday"	"6"	215	35224	6.10
+	"Florida"	"12"	"Saturday"	"7"	149	23982	6.21
+	"Georgia"	"13"	"Sunday"	"1"	100	11506	8.69
+	"Georgia"	"13"	"Monday"	"2"	161	19210	8.38
+	"Georgia"	"13"	"Tuesday"	"3"	140	20756	6.75
+	"Georgia"	"13"	"Wednesday"	"4"	122	20691	5.90
+	"Georgia"	"13"	"Thursday"	"5"	129	20415	6.32
+	"Georgia"	"13"	"Friday"	"6"	139	20193	6.88
+	"Georgia"	"13"	"Saturday"	"7"	97	13401	7.24
+	"Hawaii"	"15"	"Sunday"	"1"	12	2007	5.98 (Unreliable)
+	"Hawaii"	"15"	"Monday"	"2"	18	2388	7.54 (Unreliable)
+	"Hawaii"	"15"	"Tuesday"	"3"	Suppressed	2411	Suppressed
+	"Hawaii"	"15"	"Wednesday"	"4"	20	2546	7.86
+	"Hawaii"	"15"	"Thursday"	"5"	15	2664	5.63 (Unreliable)
+	"Hawaii"	"15"	"Friday"	"6"	22	2741	8.03
+	"Hawaii"	"15"	"Saturday"	"7"	20	2215	9.03
+	"Idaho"	"16"	"Sunday"	"1"	16	1974	8.11 (Unreliable)
+	"Idaho"	"16"	"Monday"	"2"	16	3272	4.89 (Unreliable)
+	"Idaho"	"16"	"Tuesday"	"3"	16	3383	4.73 (Unreliable)
+	"Idaho"	"16"	"Wednesday"	"4"	14	3327	4.21 (Unreliable)
+	"Idaho"	"16"	"Thursday"	"5"	21	3563	5.89
+	"Idaho"	"16"	"Friday"	"6"	13	3446	3.77 (Unreliable)
+	"Idaho"	"16"	"Saturday"	"7"	12	2438	4.92 (Unreliable)
+	"Illinois"	"17"	"Sunday"	"1"	120	13948	8.60
+	"Illinois"	"17"	"Monday"	"2"	165	22018	7.49
+	"Illinois"	"17"	"Tuesday"	"3"	142	23024	6.17
+	"Illinois"	"17"	"Wednesday"	"4"	138	23066	5.98
+	"Illinois"	"17"	"Thursday"	"5"	124	23133	5.36
+	"Illinois"	"17"	"Friday"	"6"	135	23190	5.82
+	"Illinois"	"17"	"Saturday"	"7"	125	16436	7.61
+	"Indiana"	"18"	"Sunday"	"1"	65	7469	8.70
+	"Indiana"	"18"	"Monday"	"2"	89	12490	7.13
+	"Indiana"	"18"	"Tuesday"	"3"	75	13331	5.63
+	"Indiana"	"18"	"Wednesday"	"4"	92	12947	7.11
+	"Indiana"	"18"	"Thursday"	"5"	87	13209	6.59
+	"Indiana"	"18"	"Friday"	"6"	74	13288	5.57
+	"Indiana"	"18"	"Saturday"	"7"	65	8912	7.29
+	"Iowa"	"19"	"Sunday"	"1"	29	3328	8.71
+	"Iowa"	"19"	"Monday"	"2"	28	6001	4.67
+	"Iowa"	"19"	"Tuesday"	"3"	22	6125	3.59
+	"Iowa"	"19"	"Wednesday"	"4"	30	5968	5.03
+	"Iowa"	"19"	"Thursday"	"5"	33	6160	5.36
+	"Iowa"	"19"	"Friday"	"6"	25	6206	4.03
+	"Iowa"	"19"	"Saturday"	"7"	21	3997	5.25
+	"Kansas"	"20"	"Sunday"	"1"	29	2881	10.07
+	"Kansas"	"20"	"Monday"	"2"	45	5945	7.57
+	"Kansas"	"20"	"Tuesday"	"3"	33	5879	5.61
+	"Kansas"	"20"	"Wednesday"	"4"	37	5979	6.19
+	"Kansas"	"20"	"Thursday"	"5"	31	6188	5.01
+	"Kansas"	"20"	"Friday"	"6"	34	6017	5.65
+	"Kansas"	"20"	"Saturday"	"7"	22	3372	6.52
+	"Kentucky"	"21"	"Sunday"	"1"	36	4615	7.80
+	"Kentucky"	"21"	"Monday"	"2"	49	8325	5.89
+	"Kentucky"	"21"	"Tuesday"	"3"	50	8853	5.65
+	"Kentucky"	"21"	"Wednesday"	"4"	52	8791	5.92
+	"Kentucky"	"21"	"Thursday"	"5"	49	8862	5.53
+	"Kentucky"	"21"	"Friday"	"6"	54	8972	6.02
+	"Kentucky"	"21"	"Saturday"	"7"	36	5504	6.54
+	"Louisiana"	"22"	"Sunday"	"1"	43	4256	10.10
+	"Louisiana"	"22"	"Monday"	"2"	70	10498	6.67
+	"Louisiana"	"22"	"Tuesday"	"3"	71	10595	6.70
+	"Louisiana"	"22"	"Wednesday"	"4"	79	10333	7.65
+	"Louisiana"	"22"	"Thursday"	"5"	69	10336	6.68
+	"Louisiana"	"22"	"Friday"	"6"	81	8893	9.11
+	"Louisiana"	"22"	"Saturday"	"7"	43	4704	9.14
+	"Maine"	"23"	"Sunday"	"1"	Suppressed	1194	Suppressed
+	"Maine"	"23"	"Monday"	"2"	12	1760	6.82 (Unreliable)
+	"Maine"	"23"	"Tuesday"	"3"	Suppressed	1911	Suppressed
+	"Maine"	"23"	"Wednesday"	"4"	12	2010	5.97 (Unreliable)
+	"Maine"	"23"	"Thursday"	"5"	12	1984	6.05 (Unreliable)
+	"Maine"	"23"	"Friday"	"6"	13	2036	6.39 (Unreliable)
+	"Maine"	"23"	"Saturday"	"7"	Suppressed	1416	Suppressed
+	"Maryland"	"24"	"Sunday"	"1"	48	7085	6.77
+	"Maryland"	"24"	"Monday"	"2"	53	10548	5.02
+	"Maryland"	"24"	"Tuesday"	"3"	72	11302	6.37
+	"Maryland"	"24"	"Wednesday"	"4"	58	11141	5.21
+	"Maryland"	"24"	"Thursday"	"5"	72	11382	6.33
+	"Maryland"	"24"	"Friday"	"6"	68	11442	5.94
+	"Maryland"	"24"	"Saturday"	"7"	56	8180	6.85
+	"Massachusetts"	"25"	"Sunday"	"1"	47	7777	6.04
+	"Massachusetts"	"25"	"Monday"	"2"	29	9770	2.97
+	"Massachusetts"	"25"	"Tuesday"	"3"	40	10622	3.77
+	"Massachusetts"	"25"	"Wednesday"	"4"	41	10603	3.87
+	"Massachusetts"	"25"	"Thursday"	"5"	50	10942	4.57
+	"Massachusetts"	"25"	"Friday"	"6"	41	10866	3.77
+	"Massachusetts"	"25"	"Saturday"	"7"	40	8529	4.69
+	"Michigan"	"26"	"Sunday"	"1"	85	11077	7.67
+	"Michigan"	"26"	"Monday"	"2"	100	16348	6.12
+	"Michigan"	"26"	"Tuesday"	"3"	97	17219	5.63
+	"Michigan"	"26"	"Wednesday"	"4"	103	17261	5.97
+	"Michigan"	"26"	"Thursday"	"5"	92	17289	5.32
+	"Michigan"	"26"	"Friday"	"6"	115	17908	6.42
+	"Michigan"	"26"	"Saturday"	"7"	91	12930	7.04
+	"Minnesota"	"27"	"Sunday"	"1"	33	6916	4.77
+	"Minnesota"	"27"	"Monday"	"2"	48	10220	4.70
+	"Minnesota"	"27"	"Tuesday"	"3"	49	10275	4.77
+	"Minnesota"	"27"	"Wednesday"	"4"	65	10639	6.11
+	"Minnesota"	"27"	"Thursday"	"5"	45	10464	4.30
+	"Minnesota"	"27"	"Friday"	"6"	57	11001	5.18
+	"Minnesota"	"27"	"Saturday"	"7"	44	7829	5.62
+	"Mississippi"	"28"	"Sunday"	"1"	32	2529	12.65
+	"Mississippi"	"28"	"Monday"	"2"	49	6292	7.79
+	"Mississippi"	"28"	"Tuesday"	"3"	55	6467	8.50
+	"Mississippi"	"28"	"Wednesday"	"4"	40	6410	6.24
+	"Mississippi"	"28"	"Thursday"	"5"	38	6564	5.79
+	"Mississippi"	"28"	"Friday"	"6"	55	5811	9.46
+	"Mississippi"	"28"	"Saturday"	"7"	42	2927	14.35
+	"Missouri"	"29"	"Sunday"	"1"	52	6011	8.65
+	"Missouri"	"29"	"Monday"	"2"	59	11726	5.03
+	"Missouri"	"29"	"Tuesday"	"3"	76	12283	6.19
+	"Missouri"	"29"	"Wednesday"	"4"	88	11993	7.34
+	"Missouri"	"29"	"Thursday"	"5"	71	12169	5.83
+	"Missouri"	"29"	"Friday"	"6"	71	11725	6.06
+	"Missouri"	"29"	"Saturday"	"7"	46	7362	6.25
+	"Montana"	"30"	"Sunday"	"1"	10	1070	9.35 (Unreliable)
+	"Montana"	"30"	"Monday"	"2"	Suppressed	1794	Suppressed
+	"Montana"	"30"	"Tuesday"	"3"	13	1753	7.42 (Unreliable)
+	"Montana"	"30"	"Wednesday"	"4"	Suppressed	1846	Suppressed
+	"Montana"	"30"	"Thursday"	"5"	Suppressed	1913	Suppressed
+	"Montana"	"30"	"Friday"	"6"	Suppressed	1880	Suppressed
+	"Montana"	"30"	"Saturday"	"7"	Suppressed	1257	Suppressed
+	"Nebraska"	"31"	"Sunday"	"1"	19	2110	9.00 (Unreliable)
+	"Nebraska"	"31"	"Monday"	"2"	20	4181	4.78
+	"Nebraska"	"31"	"Tuesday"	"3"	23	4236	5.43
+	"Nebraska"	"31"	"Wednesday"	"4"	15	4191	3.58 (Unreliable)
+	"Nebraska"	"31"	"Thursday"	"5"	30	4185	7.17
+	"Nebraska"	"31"	"Friday"	"6"	21	4164	5.04
+	"Nebraska"	"31"	"Saturday"	"7"	18	2421	7.43 (Unreliable)
+	"Nevada"	"32"	"Sunday"	"1"	27	3805	7.10
+	"Nevada"	"32"	"Monday"	"2"	27	5146	5.25
+	"Nevada"	"32"	"Tuesday"	"3"	29	5534	5.24
+	"Nevada"	"32"	"Wednesday"	"4"	32	5593	5.72
+	"Nevada"	"32"	"Thursday"	"5"	46	5711	8.05
+	"Nevada"	"32"	"Friday"	"6"	31	5448	5.69
+	"Nevada"	"32"	"Saturday"	"7"	27	4445	6.07
+	"New Hampshire"	"33"	"Sunday"	"1"	Suppressed	1247	Suppressed
+	"New Hampshire"	"33"	"Monday"	"2"	Suppressed	1722	Suppressed
+	"New Hampshire"	"33"	"Tuesday"	"3"	Suppressed	1877	Suppressed
+	"New Hampshire"	"33"	"Wednesday"	"4"	Suppressed	1821	Suppressed
+	"New Hampshire"	"33"	"Thursday"	"5"	Suppressed	1936	Suppressed
+	"New Hampshire"	"33"	"Friday"	"6"	Suppressed	1931	Suppressed
+	"New Hampshire"	"33"	"Saturday"	"7"	Suppressed	1461	Suppressed
+	"New Jersey"	"34"	"Sunday"	"1"	55	10185	5.40
+	"New Jersey"	"34"	"Monday"	"2"	52	14801	3.51
+	"New Jersey"	"34"	"Tuesday"	"3"	46	16014	2.87
+	"New Jersey"	"34"	"Wednesday"	"4"	63	16152	3.90
+	"New Jersey"	"34"	"Thursday"	"5"	50	16302	3.07
+	"New Jersey"	"34"	"Friday"	"6"	69	16046	4.30
+	"New Jersey"	"34"	"Saturday"	"7"	49	11723	4.18
+	"New Mexico"	"35"	"Sunday"	"1"	14	2599	5.39 (Unreliable)
+	"New Mexico"	"35"	"Monday"	"2"	18	3337	5.39 (Unreliable)
+	"New Mexico"	"35"	"Tuesday"	"3"	19	3505	5.42 (Unreliable)
+	"New Mexico"	"35"	"Wednesday"	"4"	16	3638	4.40 (Unreliable)
+	"New Mexico"	"35"	"Thursday"	"5"	25	3697	6.76
+	"New Mexico"	"35"	"Friday"	"6"	12	3434	3.49 (Unreliable)
+	"New Mexico"	"35"	"Saturday"	"7"	26	2829	9.19
+	"New York"	"36"	"Sunday"	"1"	116	23942	4.85
+	"New York"	"36"	"Monday"	"2"	154	32963	4.67
+	"New York"	"36"	"Tuesday"	"3"	156	35561	4.39
+	"New York"	"36"	"Wednesday"	"4"	150	35309	4.25
+	"New York"	"36"	"Thursday"	"5"	122	35412	3.45
+	"New York"	"36"	"Friday"	"6"	151	36048	4.19
+	"New York"	"36"	"Saturday"	"7"	128	27003	4.74
+	"North Carolina"	"37"	"Sunday"	"1"	113	12012	9.41
+	"North Carolina"	"37"	"Monday"	"2"	113	17421	6.49
+	"North Carolina"	"37"	"Tuesday"	"3"	129	18608	6.93
+	"North Carolina"	"37"	"Wednesday"	"4"	118	18859	6.26
+	"North Carolina"	"37"	"Thursday"	"5"	112	18902	5.93
+	"North Carolina"	"37"	"Friday"	"6"	121	19144	6.32
+	"North Carolina"	"37"	"Saturday"	"7"	97	14008	6.92
+	"North Dakota"	"38"	"Sunday"	"1"	Suppressed	1019	Suppressed
+	"North Dakota"	"38"	"Monday"	"2"	Suppressed	1564	Suppressed
+	"North Dakota"	"38"	"Tuesday"	"3"	13	1833	7.09 (Unreliable)
+	"North Dakota"	"38"	"Wednesday"	"4"	Suppressed	1656	Suppressed
+	"North Dakota"	"38"	"Thursday"	"5"	Suppressed	1708	Suppressed
+	"North Dakota"	"38"	"Friday"	"6"	Suppressed	1720	Suppressed
+	"North Dakota"	"38"	"Saturday"	"7"	10	1136	8.80 (Unreliable)
+	"Ohio"	"39"	"Sunday"	"1"	103	12781	8.06
+	"Ohio"	"39"	"Monday"	"2"	138	20320	6.79
+	"Ohio"	"39"	"Tuesday"	"3"	138	21702	6.36
+	"Ohio"	"39"	"Wednesday"	"4"	155	21479	7.22
+	"Ohio"	"39"	"Thursday"	"5"	134	21818	6.14
+	"Ohio"	"39"	"Friday"	"6"	156	21959	7.10
+	"Ohio"	"39"	"Saturday"	"7"	115	15075	7.63
+	"Oklahoma"	"40"	"Sunday"	"1"	32	3772	8.48
+	"Oklahoma"	"40"	"Monday"	"2"	61	8177	7.46
+	"Oklahoma"	"40"	"Tuesday"	"3"	52	8734	5.95
+	"Oklahoma"	"40"	"Wednesday"	"4"	63	8443	7.46
+	"Oklahoma"	"40"	"Thursday"	"5"	63	8611	7.32
+	"Oklahoma"	"40"	"Friday"	"6"	51	7834	6.51
+	"Oklahoma"	"40"	"Saturday"	"7"	31	4229	7.33
+	"Oregon"	"41"	"Sunday"	"1"	25	4668	5.36
+	"Oregon"	"41"	"Monday"	"2"	27	6179	4.37
+	"Oregon"	"41"	"Tuesday"	"3"	35	6329	5.53
+	"Oregon"	"41"	"Wednesday"	"4"	19	6444	2.95 (Unreliable)
+	"Oregon"	"41"	"Thursday"	"5"	28	6581	4.25
+	"Oregon"	"41"	"Friday"	"6"	31	6680	4.64
+	"Oregon"	"41"	"Saturday"	"7"	13	5307	2.45 (Unreliable)
+	"Pennsylvania"	"42"	"Sunday"	"1"	93	13607	6.83
+	"Pennsylvania"	"42"	"Monday"	"2"	116	19941	5.82
+	"Pennsylvania"	"42"	"Tuesday"	"3"	113	21306	5.30
+	"Pennsylvania"	"42"	"Wednesday"	"4"	121	21621	5.60
+	"Pennsylvania"	"42"	"Thursday"	"5"	122	21525	5.67
+	"Pennsylvania"	"42"	"Friday"	"6"	127	21953	5.79
+	"Pennsylvania"	"42"	"Saturday"	"7"	112	15720	7.12
+	"Rhode Island"	"44"	"Sunday"	"1"	Suppressed	1104	Suppressed
+	"Rhode Island"	"44"	"Monday"	"2"	12	1498	8.01 (Unreliable)
+	"Rhode Island"	"44"	"Tuesday"	"3"	10	1618	6.18 (Unreliable)
+	"Rhode Island"	"44"	"Wednesday"	"4"	Suppressed	1675	Suppressed
+	"Rhode Island"	"44"	"Thursday"	"5"	Suppressed	1702	Suppressed
+	"Rhode Island"	"44"	"Friday"	"6"	Suppressed	1639	Suppressed
+	"Rhode Island"	"44"	"Saturday"	"7"	Suppressed	1270	Suppressed
+	"South Carolina"	"45"	"Sunday"	"1"	52	4572	11.37
+	"South Carolina"	"45"	"Monday"	"2"	63	9132	6.90
+	"South Carolina"	"45"	"Tuesday"	"3"	55	9480	5.80
+	"South Carolina"	"45"	"Wednesday"	"4"	64	9495	6.74
+	"South Carolina"	"45"	"Thursday"	"5"	63	9400	6.70
+	"South Carolina"	"45"	"Friday"	"6"	54	9160	5.90
+	"South Carolina"	"45"	"Saturday"	"7"	52	5430	9.58
+	"South Dakota"	"46"	"Sunday"	"1"	Suppressed	1074	Suppressed
+	"South Dakota"	"46"	"Monday"	"2"	Suppressed	1843	Suppressed
+	"South Dakota"	"46"	"Tuesday"	"3"	10	1923	5.20 (Unreliable)
+	"South Dakota"	"46"	"Wednesday"	"4"	10	1949	5.13 (Unreliable)
+	"South Dakota"	"46"	"Thursday"	"5"	15	1892	7.93 (Unreliable)
+	"South Dakota"	"46"	"Friday"	"6"	11	1948	5.65 (Unreliable)
+	"South Dakota"	"46"	"Saturday"	"7"	Suppressed	1264	Suppressed
+	"Tennessee"	"47"	"Sunday"	"1"	54	6593	8.19
+	"Tennessee"	"47"	"Monday"	"2"	82	12751	6.43
+	"Tennessee"	"47"	"Tuesday"	"3"	87	13600	6.40
+	"Tennessee"	"47"	"Wednesday"	"4"	92	13329	6.90
+	"Tennessee"	"47"	"Thursday"	"5"	79	13481	5.86
+	"Tennessee"	"47"	"Friday"	"6"	87	13075	6.65
+	"Tennessee"	"47"	"Saturday"	"7"	74	7922	9.34
+	"Texas"	"48"	"Sunday"	"1"	238	31956	7.45
+	"Texas"	"48"	"Monday"	"2"	312	60774	5.13
+	"Texas"	"48"	"Tuesday"	"3"	320	63786	5.02
+	"Texas"	"48"	"Wednesday"	"4"	341	62861	5.42
+	"Texas"	"48"	"Thursday"	"5"	326	63907	5.10
+	"Texas"	"48"	"Friday"	"6"	303	58539	5.18
+	"Texas"	"48"	"Saturday"	"7"	235	36801	6.39
+	"Utah"	"49"	"Sunday"	"1"	36	4485	8.03
+	"Utah"	"49"	"Monday"	"2"	38	7319	5.19
+	"Utah"	"49"	"Tuesday"	"3"	46	7500	6.13
+	"Utah"	"49"	"Wednesday"	"4"	40	7579	5.28
+	"Utah"	"49"	"Thursday"	"5"	29	7781	3.73
+	"Utah"	"49"	"Friday"	"6"	40	7442	5.37
+	"Utah"	"49"	"Saturday"	"7"	28	5103	5.49
+	"Vermont"	"50"	"Sunday"	"1"	Suppressed	548	Suppressed
+	"Vermont"	"50"	"Monday"	"2"	Suppressed	798	Suppressed
+	"Vermont"	"50"	"Tuesday"	"3"	Suppressed	850	Suppressed
+	"Vermont"	"50"	"Wednesday"	"4"	Suppressed	902	Suppressed
+	"Vermont"	"50"	"Thursday"	"5"	Suppressed	790	Suppressed
+	"Vermont"	"50"	"Friday"	"6"	Suppressed	872	Suppressed
+	"Vermont"	"50"	"Saturday"	"7"	Suppressed	672	Suppressed
+	"Virginia"	"51"	"Sunday"	"1"	49	9454	5.18
+	"Virginia"	"51"	"Monday"	"2"	89	14871	5.98
+	"Virginia"	"51"	"Tuesday"	"3"	82	15762	5.20
+	"Virginia"	"51"	"Wednesday"	"4"	99	16014	6.18
+	"Virginia"	"51"	"Thursday"	"5"	95	16064	5.91
+	"Virginia"	"51"	"Friday"	"6"	88	16465	5.34
+	"Virginia"	"51"	"Saturday"	"7"	58	11213	5.17
+	"Washington"	"53"	"Sunday"	"1"	34	9708	3.50
+	"Washington"	"53"	"Monday"	"2"	54	12418	4.35
+	"Washington"	"53"	"Tuesday"	"3"	55	12981	4.24
+	"Washington"	"53"	"Wednesday"	"4"	63	13264	4.75
+	"Washington"	"53"	"Thursday"	"5"	81	13480	6.01
+	"Washington"	"53"	"Friday"	"6"	63	13417	4.70
+	"Washington"	"53"	"Saturday"	"7"	54	10817	4.99
+	"West Virginia"	"54"	"Sunday"	"1"	Suppressed	1436	Suppressed
+	"West Virginia"	"54"	"Monday"	"2"	15	2909	5.16 (Unreliable)
+	"West Virginia"	"54"	"Tuesday"	"3"	30	3295	9.10
+	"West Virginia"	"54"	"Wednesday"	"4"	24	3093	7.76
+	"West Virginia"	"54"	"Thursday"	"5"	21	2947	7.13
+	"West Virginia"	"54"	"Friday"	"6"	20	2872	6.96
+	"West Virginia"	"54"	"Saturday"	"7"	Suppressed	1696	Suppressed
+	"Wisconsin"	"55"	"Sunday"	"1"	46	6400	7.19
+	"Wisconsin"	"55"	"Monday"	"2"	62	9614	6.45
+	"Wisconsin"	"55"	"Tuesday"	"3"	62	10078	6.15
+	"Wisconsin"	"55"	"Wednesday"	"4"	59	10254	5.75
+	"Wisconsin"	"55"	"Thursday"	"5"	56	10041	5.58
+	"Wisconsin"	"55"	"Friday"	"6"	57	10471	5.44
+	"Wisconsin"	"55"	"Saturday"	"7"	50	7240	6.91
+	"Wyoming"	"56"	"Sunday"	"1"	Suppressed	532	Suppressed
+	"Wyoming"	"56"	"Monday"	"2"	Suppressed	1024	Suppressed
+	"Wyoming"	"56"	"Tuesday"	"3"	Suppressed	1096	Suppressed
+	"Wyoming"	"56"	"Wednesday"	"4"	Suppressed	1137	Suppressed
+	"Wyoming"	"56"	"Thursday"	"5"	Suppressed	1017	Suppressed
+	"Wyoming"	"56"	"Friday"	"6"	Suppressed	1054	Suppressed
+	"Wyoming"	"56"	"Saturday"	"7"	Suppressed	702	Suppressed
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2017-2018 Expanded"
+"Query Parameters:"
+"Title: weekdays"
+"Year of Death: 2018"
+"Group By: State; Weekday"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd-expanded.html for more information."
+"---"
+"Query Date: Oct 5, 2021 1:09:59 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2017-2018, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current-expanded.html on Oct 5, 2021 1:09:59 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Weight Factors."

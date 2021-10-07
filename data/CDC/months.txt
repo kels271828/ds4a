@@ -1,0 +1,647 @@
+"Notes"	"State"	"State Code"	"Month"	"Month Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"January"	"1"	31	4902	6.32
+	"Alabama"	"01"	"February"	"2"	31	4342	7.14
+	"Alabama"	"01"	"March"	"3"	30	4761	6.30
+	"Alabama"	"01"	"April"	"4"	36	4393	8.19
+	"Alabama"	"01"	"May"	"5"	27	4785	5.64
+	"Alabama"	"01"	"June"	"6"	26	4768	5.45
+	"Alabama"	"01"	"July"	"7"	44	4936	8.91
+	"Alabama"	"01"	"August"	"8"	32	5275	6.07
+	"Alabama"	"01"	"September"	"9"	34	4816	7.06
+	"Alabama"	"01"	"October"	"10"	36	5003	7.20
+	"Alabama"	"01"	"November"	"11"	35	4819	7.26
+	"Alabama"	"01"	"December"	"12"	39	4961	7.86
+	"Alaska"	"02"	"January"	"1"	Suppressed	819	Suppressed
+	"Alaska"	"02"	"February"	"2"	Suppressed	769	Suppressed
+	"Alaska"	"02"	"March"	"3"	Suppressed	895	Suppressed
+	"Alaska"	"02"	"April"	"4"	Suppressed	841	Suppressed
+	"Alaska"	"02"	"May"	"5"	Suppressed	875	Suppressed
+	"Alaska"	"02"	"June"	"6"	13	874	14.87 (Unreliable)
+	"Alaska"	"02"	"July"	"7"	Suppressed	814	Suppressed
+	"Alaska"	"02"	"August"	"8"	Suppressed	934	Suppressed
+	"Alaska"	"02"	"September"	"9"	Suppressed	798	Suppressed
+	"Alaska"	"02"	"October"	"10"	Suppressed	875	Suppressed
+	"Alaska"	"02"	"November"	"11"	Suppressed	778	Suppressed
+	"Alaska"	"02"	"December"	"12"	Suppressed	814	Suppressed
+	"Arizona"	"04"	"January"	"1"	25	6743	3.71
+	"Arizona"	"04"	"February"	"2"	46	6195	7.43
+	"Arizona"	"04"	"March"	"3"	50	6636	7.53
+	"Arizona"	"04"	"April"	"4"	31	6152	5.04
+	"Arizona"	"04"	"May"	"5"	31	6419	4.83
+	"Arizona"	"04"	"June"	"6"	34	6496	5.23
+	"Arizona"	"04"	"July"	"7"	47	6852	6.86
+	"Arizona"	"04"	"August"	"8"	43	7314	5.88
+	"Arizona"	"04"	"September"	"9"	43	7117	6.04
+	"Arizona"	"04"	"October"	"10"	46	7150	6.43
+	"Arizona"	"04"	"November"	"11"	29	6814	4.26
+	"Arizona"	"04"	"December"	"12"	37	6835	5.41
+	"Arkansas"	"05"	"January"	"1"	27	3110	8.68
+	"Arkansas"	"05"	"February"	"2"	19	2803	6.78 (Unreliable)
+	"Arkansas"	"05"	"March"	"3"	31	3047	10.17
+	"Arkansas"	"05"	"April"	"4"	23	2830	8.13
+	"Arkansas"	"05"	"May"	"5"	25	3172	7.88
+	"Arkansas"	"05"	"June"	"6"	22	3003	7.33
+	"Arkansas"	"05"	"July"	"7"	29	3246	8.93
+	"Arkansas"	"05"	"August"	"8"	24	3400	7.06
+	"Arkansas"	"05"	"September"	"9"	18	3101	5.80 (Unreliable)
+	"Arkansas"	"05"	"October"	"10"	17	3248	5.23 (Unreliable)
+	"Arkansas"	"05"	"November"	"11"	23	2958	7.78
+	"Arkansas"	"05"	"December"	"12"	19	3100	6.13 (Unreliable)
+	"California"	"06"	"January"	"1"	166	38186	4.35
+	"California"	"06"	"February"	"2"	140	34467	4.06
+	"California"	"06"	"March"	"3"	184	37811	4.87
+	"California"	"06"	"April"	"4"	152	35583	4.27
+	"California"	"06"	"May"	"5"	163	37390	4.36
+	"California"	"06"	"June"	"6"	180	36700	4.90
+	"California"	"06"	"July"	"7"	159	39606	4.01
+	"California"	"06"	"August"	"8"	132	41105	3.21
+	"California"	"06"	"September"	"9"	160	39081	4.09
+	"California"	"06"	"October"	"10"	174	39295	4.43
+	"California"	"06"	"November"	"11"	154	38107	4.04
+	"California"	"06"	"December"	"12"	152	37589	4.04
+	"Colorado"	"08"	"January"	"1"	22	5196	4.23
+	"Colorado"	"08"	"February"	"2"	33	4783	6.90
+	"Colorado"	"08"	"March"	"3"	24	5279	4.55
+	"Colorado"	"08"	"April"	"4"	27	5053	5.34
+	"Colorado"	"08"	"May"	"5"	28	5443	5.14
+	"Colorado"	"08"	"June"	"6"	18	5118	3.52 (Unreliable)
+	"Colorado"	"08"	"July"	"7"	18	5513	3.27 (Unreliable)
+	"Colorado"	"08"	"August"	"8"	27	5673	4.76
+	"Colorado"	"08"	"September"	"9"	31	5439	5.70
+	"Colorado"	"08"	"October"	"10"	27	5305	5.09
+	"Colorado"	"08"	"November"	"11"	22	5058	4.35
+	"Colorado"	"08"	"December"	"12"	22	5025	4.38
+	"Connecticut"	"09"	"January"	"1"	11	2804	3.92 (Unreliable)
+	"Connecticut"	"09"	"February"	"2"	12	2486	4.83 (Unreliable)
+	"Connecticut"	"09"	"March"	"3"	13	2905	4.48 (Unreliable)
+	"Connecticut"	"09"	"April"	"4"	13	2800	4.64 (Unreliable)
+	"Connecticut"	"09"	"May"	"5"	11	3113	3.53 (Unreliable)
+	"Connecticut"	"09"	"June"	"6"	15	2914	5.15 (Unreliable)
+	"Connecticut"	"09"	"July"	"7"	16	2996	5.34 (Unreliable)
+	"Connecticut"	"09"	"August"	"8"	12	3079	3.90 (Unreliable)
+	"Connecticut"	"09"	"September"	"9"	14	2913	4.81 (Unreliable)
+	"Connecticut"	"09"	"October"	"10"	Suppressed	3087	Suppressed
+	"Connecticut"	"09"	"November"	"11"	10	2828	3.54 (Unreliable)
+	"Connecticut"	"09"	"December"	"12"	11	2800	3.93 (Unreliable)
+	"Delaware"	"10"	"January"	"1"	Suppressed	861	Suppressed
+	"Delaware"	"10"	"February"	"2"	Suppressed	803	Suppressed
+	"Delaware"	"10"	"March"	"3"	Suppressed	942	Suppressed
+	"Delaware"	"10"	"April"	"4"	Suppressed	834	Suppressed
+	"Delaware"	"10"	"May"	"5"	Suppressed	906	Suppressed
+	"Delaware"	"10"	"June"	"6"	Suppressed	907	Suppressed
+	"Delaware"	"10"	"July"	"7"	Suppressed	840	Suppressed
+	"Delaware"	"10"	"August"	"8"	Suppressed	989	Suppressed
+	"Delaware"	"10"	"September"	"9"	Suppressed	880	Suppressed
+	"Delaware"	"10"	"October"	"10"	Suppressed	897	Suppressed
+	"Delaware"	"10"	"November"	"11"	Suppressed	849	Suppressed
+	"Delaware"	"10"	"December"	"12"	Suppressed	913	Suppressed
+	"District of Columbia"	"11"	"January"	"1"	Suppressed	759	Suppressed
+	"District of Columbia"	"11"	"February"	"2"	Suppressed	696	Suppressed
+	"District of Columbia"	"11"	"March"	"3"	10	743	13.46 (Unreliable)
+	"District of Columbia"	"11"	"April"	"4"	Suppressed	722	Suppressed
+	"District of Columbia"	"11"	"May"	"5"	Suppressed	791	Suppressed
+	"District of Columbia"	"11"	"June"	"6"	Suppressed	789	Suppressed
+	"District of Columbia"	"11"	"July"	"7"	Suppressed	813	Suppressed
+	"District of Columbia"	"11"	"August"	"8"	Suppressed	823	Suppressed
+	"District of Columbia"	"11"	"September"	"9"	Suppressed	745	Suppressed
+	"District of Columbia"	"11"	"October"	"10"	Suppressed	835	Suppressed
+	"District of Columbia"	"11"	"November"	"11"	Suppressed	745	Suppressed
+	"District of Columbia"	"11"	"December"	"12"	Suppressed	751	Suppressed
+	"Florida"	"12"	"January"	"1"	102	19075	5.35
+	"Florida"	"12"	"February"	"2"	104	16597	6.27
+	"Florida"	"12"	"March"	"3"	110	18529	5.94
+	"Florida"	"12"	"April"	"4"	113	16853	6.71
+	"Florida"	"12"	"May"	"5"	110	17892	6.15
+	"Florida"	"12"	"June"	"6"	99	17536	5.65
+	"Florida"	"12"	"July"	"7"	137	18274	7.50
+	"Florida"	"12"	"August"	"8"	123	20154	6.10
+	"Florida"	"12"	"September"	"9"	97	19122	5.07
+	"Florida"	"12"	"October"	"10"	125	19748	6.33
+	"Florida"	"12"	"November"	"11"	112	18487	6.06
+	"Florida"	"12"	"December"	"12"	107	19275	5.55
+	"Georgia"	"13"	"January"	"1"	81	10567	7.67
+	"Georgia"	"13"	"February"	"2"	69	9655	7.15
+	"Georgia"	"13"	"March"	"3"	74	10529	7.03
+	"Georgia"	"13"	"April"	"4"	75	9644	7.78
+	"Georgia"	"13"	"May"	"5"	79	10509	7.52
+	"Georgia"	"13"	"June"	"6"	57	10374	5.49
+	"Georgia"	"13"	"July"	"7"	74	10776	6.87
+	"Georgia"	"13"	"August"	"8"	68	11659	5.83
+	"Georgia"	"13"	"September"	"9"	80	10665	7.50
+	"Georgia"	"13"	"October"	"10"	78	10782	7.23
+	"Georgia"	"13"	"November"	"11"	76	10241	7.42
+	"Georgia"	"13"	"December"	"12"	77	10771	7.15
+	"Hawaii"	"15"	"January"	"1"	14	1405	9.96 (Unreliable)
+	"Hawaii"	"15"	"February"	"2"	10	1272	7.86 (Unreliable)
+	"Hawaii"	"15"	"March"	"3"	10	1406	7.11 (Unreliable)
+	"Hawaii"	"15"	"April"	"4"	12	1413	8.49 (Unreliable)
+	"Hawaii"	"15"	"May"	"5"	11	1499	7.34 (Unreliable)
+	"Hawaii"	"15"	"June"	"6"	Suppressed	1381	Suppressed
+	"Hawaii"	"15"	"July"	"7"	Suppressed	1404	Suppressed
+	"Hawaii"	"15"	"August"	"8"	13	1433	9.07 (Unreliable)
+	"Hawaii"	"15"	"September"	"9"	Suppressed	1485	Suppressed
+	"Hawaii"	"15"	"October"	"10"	Suppressed	1451	Suppressed
+	"Hawaii"	"15"	"November"	"11"	11	1394	7.89 (Unreliable)
+	"Hawaii"	"15"	"December"	"12"	Suppressed	1429	Suppressed
+	"Idaho"	"16"	"January"	"1"	Suppressed	1713	Suppressed
+	"Idaho"	"16"	"February"	"2"	12	1555	7.72 (Unreliable)
+	"Idaho"	"16"	"March"	"3"	Suppressed	1813	Suppressed
+	"Idaho"	"16"	"April"	"4"	Suppressed	1759	Suppressed
+	"Idaho"	"16"	"May"	"5"	Suppressed	1940	Suppressed
+	"Idaho"	"16"	"June"	"6"	12	1767	6.79 (Unreliable)
+	"Idaho"	"16"	"July"	"7"	Suppressed	1885	Suppressed
+	"Idaho"	"16"	"August"	"8"	12	1905	6.30 (Unreliable)
+	"Idaho"	"16"	"September"	"9"	Suppressed	1845	Suppressed
+	"Idaho"	"16"	"October"	"10"	12	1815	6.61 (Unreliable)
+	"Idaho"	"16"	"November"	"11"	Suppressed	1678	Suppressed
+	"Idaho"	"16"	"December"	"12"	Suppressed	1728	Suppressed
+	"Illinois"	"17"	"January"	"1"	77	11859	6.49
+	"Illinois"	"17"	"February"	"2"	75	10948	6.85
+	"Illinois"	"17"	"March"	"3"	88	12342	7.13
+	"Illinois"	"17"	"April"	"4"	70	11706	5.98
+	"Illinois"	"17"	"May"	"5"	63	12532	5.03
+	"Illinois"	"17"	"June"	"6"	67	12226	5.48
+	"Illinois"	"17"	"July"	"7"	88	12760	6.90
+	"Illinois"	"17"	"August"	"8"	89	13129	6.78
+	"Illinois"	"17"	"September"	"9"	88	12141	7.25
+	"Illinois"	"17"	"October"	"10"	94	12299	7.64
+	"Illinois"	"17"	"November"	"11"	69	11462	6.02
+	"Illinois"	"17"	"December"	"12"	81	11411	7.10
+	"Indiana"	"18"	"January"	"1"	51	6643	7.68
+	"Indiana"	"18"	"February"	"2"	46	6217	7.40
+	"Indiana"	"18"	"March"	"3"	42	7008	5.99
+	"Indiana"	"18"	"April"	"4"	47	6456	7.28
+	"Indiana"	"18"	"May"	"5"	48	6920	6.94
+	"Indiana"	"18"	"June"	"6"	53	6771	7.83
+	"Indiana"	"18"	"July"	"7"	36	7040	5.11
+	"Indiana"	"18"	"August"	"8"	44	7424	5.93
+	"Indiana"	"18"	"September"	"9"	46	7085	6.49
+	"Indiana"	"18"	"October"	"10"	47	6889	6.82
+	"Indiana"	"18"	"November"	"11"	51	6509	7.84
+	"Indiana"	"18"	"December"	"12"	41	6684	6.13
+	"Iowa"	"19"	"January"	"1"	14	3122	4.48 (Unreliable)
+	"Iowa"	"19"	"February"	"2"	Suppressed	2851	Suppressed
+	"Iowa"	"19"	"March"	"3"	13	3156	4.12 (Unreliable)
+	"Iowa"	"19"	"April"	"4"	15	3087	4.86 (Unreliable)
+	"Iowa"	"19"	"May"	"5"	11	3340	3.29 (Unreliable)
+	"Iowa"	"19"	"June"	"6"	12	3123	3.84 (Unreliable)
+	"Iowa"	"19"	"July"	"7"	21	3294	6.38
+	"Iowa"	"19"	"August"	"8"	18	3387	5.31 (Unreliable)
+	"Iowa"	"19"	"September"	"9"	23	3115	7.38
+	"Iowa"	"19"	"October"	"10"	16	3270	4.89 (Unreliable)
+	"Iowa"	"19"	"November"	"11"	22	3052	7.21
+	"Iowa"	"19"	"December"	"12"	16	2988	5.35 (Unreliable)
+	"Kansas"	"20"	"January"	"1"	15	2942	5.10 (Unreliable)
+	"Kansas"	"20"	"February"	"2"	11	2779	3.96 (Unreliable)
+	"Kansas"	"20"	"March"	"3"	21	2999	7.00
+	"Kansas"	"20"	"April"	"4"	24	2867	8.37
+	"Kansas"	"20"	"May"	"5"	22	3061	7.19
+	"Kansas"	"20"	"June"	"6"	15	3068	4.89 (Unreliable)
+	"Kansas"	"20"	"July"	"7"	19	3023	6.29 (Unreliable)
+	"Kansas"	"20"	"August"	"8"	24	3378	7.10
+	"Kansas"	"20"	"September"	"9"	11	3098	3.55 (Unreliable)
+	"Kansas"	"20"	"October"	"10"	30	3134	9.57
+	"Kansas"	"20"	"November"	"11"	24	2923	8.21
+	"Kansas"	"20"	"December"	"12"	15	2989	5.02 (Unreliable)
+	"Kentucky"	"21"	"January"	"1"	33	4505	7.33
+	"Kentucky"	"21"	"February"	"2"	19	4024	4.72 (Unreliable)
+	"Kentucky"	"21"	"March"	"3"	30	4545	6.60
+	"Kentucky"	"21"	"April"	"4"	25	4160	6.01
+	"Kentucky"	"21"	"May"	"5"	23	4540	5.07
+	"Kentucky"	"21"	"June"	"6"	26	4386	5.93
+	"Kentucky"	"21"	"July"	"7"	38	4815	7.89
+	"Kentucky"	"21"	"August"	"8"	34	4958	6.86
+	"Kentucky"	"21"	"September"	"9"	27	4526	5.97
+	"Kentucky"	"21"	"October"	"10"	28	4606	6.08
+	"Kentucky"	"21"	"November"	"11"	19	4369	4.35 (Unreliable)
+	"Kentucky"	"21"	"December"	"12"	21	4488	4.68
+	"Louisiana"	"22"	"January"	"1"	43	5186	8.29
+	"Louisiana"	"22"	"February"	"2"	34	4519	7.52
+	"Louisiana"	"22"	"March"	"3"	25	4781	5.23
+	"Louisiana"	"22"	"April"	"4"	40	4482	8.92
+	"Louisiana"	"22"	"May"	"5"	40	4952	8.08
+	"Louisiana"	"22"	"June"	"6"	32	4766	6.71
+	"Louisiana"	"22"	"July"	"7"	45	5133	8.77
+	"Louisiana"	"22"	"August"	"8"	40	5641	7.09
+	"Louisiana"	"22"	"September"	"9"	45	5021	8.96
+	"Louisiana"	"22"	"October"	"10"	39	5156	7.56
+	"Louisiana"	"22"	"November"	"11"	39	5049	7.72
+	"Louisiana"	"22"	"December"	"12"	34	4929	6.90
+	"Maine"	"23"	"January"	"1"	Suppressed	967	Suppressed
+	"Maine"	"23"	"February"	"2"	Suppressed	849	Suppressed
+	"Maine"	"23"	"March"	"3"	Suppressed	1029	Suppressed
+	"Maine"	"23"	"April"	"4"	Suppressed	979	Suppressed
+	"Maine"	"23"	"May"	"5"	Suppressed	1120	Suppressed
+	"Maine"	"23"	"June"	"6"	Suppressed	1018	Suppressed
+	"Maine"	"23"	"July"	"7"	Suppressed	1080	Suppressed
+	"Maine"	"23"	"August"	"8"	Suppressed	1167	Suppressed
+	"Maine"	"23"	"September"	"9"	10	1049	9.53 (Unreliable)
+	"Maine"	"23"	"October"	"10"	10	1079	9.27 (Unreliable)
+	"Maine"	"23"	"November"	"11"	Suppressed	989	Suppressed
+	"Maine"	"23"	"December"	"12"	Suppressed	985	Suppressed
+	"Maryland"	"24"	"January"	"1"	31	5914	5.24
+	"Maryland"	"24"	"February"	"2"	31	5169	6.00
+	"Maryland"	"24"	"March"	"3"	29	5672	5.11
+	"Maryland"	"24"	"April"	"4"	36	5702	6.31
+	"Maryland"	"24"	"May"	"5"	37	6141	6.03
+	"Maryland"	"24"	"June"	"6"	36	5910	6.09
+	"Maryland"	"24"	"July"	"7"	33	6054	5.45
+	"Maryland"	"24"	"August"	"8"	50	6557	7.63
+	"Maryland"	"24"	"September"	"9"	42	6087	6.90
+	"Maryland"	"24"	"October"	"10"	39	6314	6.18
+	"Maryland"	"24"	"November"	"11"	31	5722	5.42
+	"Maryland"	"24"	"December"	"12"	32	5838	5.48
+	"Massachusetts"	"25"	"January"	"1"	18	5579	3.23 (Unreliable)
+	"Massachusetts"	"25"	"February"	"2"	18	5085	3.54 (Unreliable)
+	"Massachusetts"	"25"	"March"	"3"	19	5829	3.26 (Unreliable)
+	"Massachusetts"	"25"	"April"	"4"	26	5613	4.63
+	"Massachusetts"	"25"	"May"	"5"	26	6104	4.26
+	"Massachusetts"	"25"	"June"	"6"	20	5966	3.35
+	"Massachusetts"	"25"	"July"	"7"	14	6129	2.28 (Unreliable)
+	"Massachusetts"	"25"	"August"	"8"	36	6181	5.82
+	"Massachusetts"	"25"	"September"	"9"	31	5922	5.23
+	"Massachusetts"	"25"	"October"	"10"	29	5920	4.90
+	"Massachusetts"	"25"	"November"	"11"	22	5571	3.95
+	"Massachusetts"	"25"	"December"	"12"	29	5210	5.57
+	"Michigan"	"26"	"January"	"1"	71	8953	7.93
+	"Michigan"	"26"	"February"	"2"	58	8173	7.10
+	"Michigan"	"26"	"March"	"3"	56	9335	6.00
+	"Michigan"	"26"	"April"	"4"	52	8925	5.83
+	"Michigan"	"26"	"May"	"5"	55	9620	5.72
+	"Michigan"	"26"	"June"	"6"	51	9438	5.40
+	"Michigan"	"26"	"July"	"7"	60	9697	6.19
+	"Michigan"	"26"	"August"	"8"	62	9913	6.25
+	"Michigan"	"26"	"September"	"9"	59	9206	6.41
+	"Michigan"	"26"	"October"	"10"	58	9321	6.22
+	"Michigan"	"26"	"November"	"11"	49	8616	5.69
+	"Michigan"	"26"	"December"	"12"	52	8835	5.89
+	"Minnesota"	"27"	"January"	"1"	31	5464	5.67
+	"Minnesota"	"27"	"February"	"2"	27	4943	5.46
+	"Minnesota"	"27"	"March"	"3"	30	5737	5.23
+	"Minnesota"	"27"	"April"	"4"	37	5556	6.66
+	"Minnesota"	"27"	"May"	"5"	28	5930	4.72
+	"Minnesota"	"27"	"June"	"6"	34	5727	5.94
+	"Minnesota"	"27"	"July"	"7"	30	5867	5.11
+	"Minnesota"	"27"	"August"	"8"	27	6219	4.34
+	"Minnesota"	"27"	"September"	"9"	26	5611	4.63
+	"Minnesota"	"27"	"October"	"10"	25	5532	4.52
+	"Minnesota"	"27"	"November"	"11"	22	5355	4.11
+	"Minnesota"	"27"	"December"	"12"	24	5403	4.44
+	"Mississippi"	"28"	"January"	"1"	32	3125	10.24
+	"Mississippi"	"28"	"February"	"2"	29	2864	10.13
+	"Mississippi"	"28"	"March"	"3"	26	3020	8.61
+	"Mississippi"	"28"	"April"	"4"	21	2758	7.61
+	"Mississippi"	"28"	"May"	"5"	18	3016	5.97 (Unreliable)
+	"Mississippi"	"28"	"June"	"6"	22	3045	7.22
+	"Mississippi"	"28"	"July"	"7"	22	3136	7.02
+	"Mississippi"	"28"	"August"	"8"	35	3449	10.15
+	"Mississippi"	"28"	"September"	"9"	26	3142	8.27
+	"Mississippi"	"28"	"October"	"10"	26	3169	8.20
+	"Mississippi"	"28"	"November"	"11"	25	3104	8.05
+	"Mississippi"	"28"	"December"	"12"	29	3172	9.14
+	"Missouri"	"29"	"January"	"1"	45	6065	7.42
+	"Missouri"	"29"	"February"	"2"	33	5470	6.03
+	"Missouri"	"29"	"March"	"3"	38	6021	6.31
+	"Missouri"	"29"	"April"	"4"	37	5728	6.46
+	"Missouri"	"29"	"May"	"5"	25	6357	3.93
+	"Missouri"	"29"	"June"	"6"	46	6271	7.34
+	"Missouri"	"29"	"July"	"7"	46	6435	7.15
+	"Missouri"	"29"	"August"	"8"	48	6724	7.14
+	"Missouri"	"29"	"September"	"9"	38	6178	6.15
+	"Missouri"	"29"	"October"	"10"	40	6229	6.42
+	"Missouri"	"29"	"November"	"11"	32	5861	5.46
+	"Missouri"	"29"	"December"	"12"	35	5930	5.90
+	"Montana"	"30"	"January"	"1"	Suppressed	971	Suppressed
+	"Montana"	"30"	"February"	"2"	Suppressed	910	Suppressed
+	"Montana"	"30"	"March"	"3"	Suppressed	1004	Suppressed
+	"Montana"	"30"	"April"	"4"	Suppressed	934	Suppressed
+	"Montana"	"30"	"May"	"5"	Suppressed	991	Suppressed
+	"Montana"	"30"	"June"	"6"	Suppressed	1001	Suppressed
+	"Montana"	"30"	"July"	"7"	Suppressed	1011	Suppressed
+	"Montana"	"30"	"August"	"8"	Suppressed	1064	Suppressed
+	"Montana"	"30"	"September"	"9"	Suppressed	915	Suppressed
+	"Montana"	"30"	"October"	"10"	Suppressed	907	Suppressed
+	"Montana"	"30"	"November"	"11"	Suppressed	886	Suppressed
+	"Montana"	"30"	"December"	"12"	Suppressed	919	Suppressed
+	"Nebraska"	"31"	"January"	"1"	12	1960	6.12 (Unreliable)
+	"Nebraska"	"31"	"February"	"2"	11	1979	5.56 (Unreliable)
+	"Nebraska"	"31"	"March"	"3"	16	2140	7.48 (Unreliable)
+	"Nebraska"	"31"	"April"	"4"	10	1966	5.09 (Unreliable)
+	"Nebraska"	"31"	"May"	"5"	11	2247	4.90 (Unreliable)
+	"Nebraska"	"31"	"June"	"6"	16	2197	7.28 (Unreliable)
+	"Nebraska"	"31"	"July"	"7"	Suppressed	2289	Suppressed
+	"Nebraska"	"31"	"August"	"8"	17	2277	7.47 (Unreliable)
+	"Nebraska"	"31"	"September"	"9"	10	2059	4.86 (Unreliable)
+	"Nebraska"	"31"	"October"	"10"	12	2191	5.48 (Unreliable)
+	"Nebraska"	"31"	"November"	"11"	14	2065	6.78 (Unreliable)
+	"Nebraska"	"31"	"December"	"12"	10	2118	4.72 (Unreliable)
+	"Nevada"	"32"	"January"	"1"	11	2899	3.79 (Unreliable)
+	"Nevada"	"32"	"February"	"2"	13	2666	4.88 (Unreliable)
+	"Nevada"	"32"	"March"	"3"	19	2934	6.48 (Unreliable)
+	"Nevada"	"32"	"April"	"4"	21	2766	7.59
+	"Nevada"	"32"	"May"	"5"	18	2949	6.10 (Unreliable)
+	"Nevada"	"32"	"June"	"6"	30	3005	9.98
+	"Nevada"	"32"	"July"	"7"	20	3141	6.37
+	"Nevada"	"32"	"August"	"8"	15	3309	4.53 (Unreliable)
+	"Nevada"	"32"	"September"	"9"	17	2946	5.77 (Unreliable)
+	"Nevada"	"32"	"October"	"10"	19	3090	6.15 (Unreliable)
+	"Nevada"	"32"	"November"	"11"	16	2967	5.39 (Unreliable)
+	"Nevada"	"32"	"December"	"12"	20	3010	6.64
+	"New Hampshire"	"33"	"January"	"1"	Suppressed	982	Suppressed
+	"New Hampshire"	"33"	"February"	"2"	Suppressed	861	Suppressed
+	"New Hampshire"	"33"	"March"	"3"	Suppressed	1011	Suppressed
+	"New Hampshire"	"33"	"April"	"4"	Suppressed	993	Suppressed
+	"New Hampshire"	"33"	"May"	"5"	Suppressed	1037	Suppressed
+	"New Hampshire"	"33"	"June"	"6"	Suppressed	981	Suppressed
+	"New Hampshire"	"33"	"July"	"7"	Suppressed	1094	Suppressed
+	"New Hampshire"	"33"	"August"	"8"	Suppressed	1099	Suppressed
+	"New Hampshire"	"33"	"September"	"9"	Suppressed	1060	Suppressed
+	"New Hampshire"	"33"	"October"	"10"	Suppressed	1030	Suppressed
+	"New Hampshire"	"33"	"November"	"11"	Suppressed	971	Suppressed
+	"New Hampshire"	"33"	"December"	"12"	Suppressed	876	Suppressed
+	"New Jersey"	"34"	"January"	"1"	27	8205	3.29
+	"New Jersey"	"34"	"February"	"2"	22	7468	2.95
+	"New Jersey"	"34"	"March"	"3"	40	8515	4.70
+	"New Jersey"	"34"	"April"	"4"	24	8157	2.94
+	"New Jersey"	"34"	"May"	"5"	31	8648	3.58
+	"New Jersey"	"34"	"June"	"6"	36	8619	4.18
+	"New Jersey"	"34"	"July"	"7"	31	8820	3.51
+	"New Jersey"	"34"	"August"	"8"	34	9270	3.67
+	"New Jersey"	"34"	"September"	"9"	34	8624	3.94
+	"New Jersey"	"34"	"October"	"10"	35	8650	4.05
+	"New Jersey"	"34"	"November"	"11"	29	8062	3.60
+	"New Jersey"	"34"	"December"	"12"	41	8185	5.01
+	"New Mexico"	"35"	"January"	"1"	16	1877	8.52 (Unreliable)
+	"New Mexico"	"35"	"February"	"2"	Suppressed	1740	Suppressed
+	"New Mexico"	"35"	"March"	"3"	12	1856	6.47 (Unreliable)
+	"New Mexico"	"35"	"April"	"4"	14	1775	7.89 (Unreliable)
+	"New Mexico"	"35"	"May"	"5"	10	1972	5.07 (Unreliable)
+	"New Mexico"	"35"	"June"	"6"	Suppressed	1813	Suppressed
+	"New Mexico"	"35"	"July"	"7"	12	2041	5.88 (Unreliable)
+	"New Mexico"	"35"	"August"	"8"	13	2079	6.25 (Unreliable)
+	"New Mexico"	"35"	"September"	"9"	12	2115	5.67 (Unreliable)
+	"New Mexico"	"35"	"October"	"10"	11	1986	5.54 (Unreliable)
+	"New Mexico"	"35"	"November"	"11"	Suppressed	1859	Suppressed
+	"New Mexico"	"35"	"December"	"12"	Suppressed	1926	Suppressed
+	"New York"	"36"	"January"	"1"	88	19056	4.62
+	"New York"	"36"	"February"	"2"	78	16744	4.66
+	"New York"	"36"	"March"	"3"	65	18703	3.48
+	"New York"	"36"	"April"	"4"	79	18012	4.39
+	"New York"	"36"	"May"	"5"	91	19546	4.66
+	"New York"	"36"	"June"	"6"	96	19355	4.96
+	"New York"	"36"	"July"	"7"	81	19656	4.12
+	"New York"	"36"	"August"	"8"	88	20301	4.33
+	"New York"	"36"	"September"	"9"	81	18891	4.29
+	"New York"	"36"	"October"	"10"	95	19243	4.94
+	"New York"	"36"	"November"	"11"	68	18338	3.71
+	"New York"	"36"	"December"	"12"	67	18393	3.64
+	"North Carolina"	"37"	"January"	"1"	70	9785	7.15
+	"North Carolina"	"37"	"February"	"2"	64	8673	7.38
+	"North Carolina"	"37"	"March"	"3"	61	9883	6.17
+	"North Carolina"	"37"	"April"	"4"	59	9209	6.41
+	"North Carolina"	"37"	"May"	"5"	51	9890	5.16
+	"North Carolina"	"37"	"June"	"6"	52	10038	5.18
+	"North Carolina"	"37"	"July"	"7"	79	10232	7.72
+	"North Carolina"	"37"	"August"	"8"	71	10921	6.50
+	"North Carolina"	"37"	"September"	"9"	83	10436	7.95
+	"North Carolina"	"37"	"October"	"10"	65	10335	6.29
+	"North Carolina"	"37"	"November"	"11"	90	9672	9.31
+	"North Carolina"	"37"	"December"	"12"	58	9880	5.87
+	"North Dakota"	"38"	"January"	"1"	Suppressed	880	Suppressed
+	"North Dakota"	"38"	"February"	"2"	Suppressed	809	Suppressed
+	"North Dakota"	"38"	"March"	"3"	Suppressed	899	Suppressed
+	"North Dakota"	"38"	"April"	"4"	Suppressed	849	Suppressed
+	"North Dakota"	"38"	"May"	"5"	Suppressed	969	Suppressed
+	"North Dakota"	"38"	"June"	"6"	Suppressed	879	Suppressed
+	"North Dakota"	"38"	"July"	"7"	Suppressed	901	Suppressed
+	"North Dakota"	"38"	"August"	"8"	Suppressed	982	Suppressed
+	"North Dakota"	"38"	"September"	"9"	Suppressed	865	Suppressed
+	"North Dakota"	"38"	"October"	"10"	Suppressed	889	Suppressed
+	"North Dakota"	"38"	"November"	"11"	Suppressed	875	Suppressed
+	"North Dakota"	"38"	"December"	"12"	Suppressed	839	Suppressed
+	"Ohio"	"39"	"January"	"1"	94	11029	8.52
+	"Ohio"	"39"	"February"	"2"	70	10321	6.78
+	"Ohio"	"39"	"March"	"3"	96	11323	8.48
+	"Ohio"	"39"	"April"	"4"	78	10730	7.27
+	"Ohio"	"39"	"May"	"5"	80	11602	6.90
+	"Ohio"	"39"	"June"	"6"	69	11466	6.02
+	"Ohio"	"39"	"July"	"7"	78	11723	6.65
+	"Ohio"	"39"	"August"	"8"	72	12308	5.85
+	"Ohio"	"39"	"September"	"9"	75	11318	6.63
+	"Ohio"	"39"	"October"	"10"	72	11612	6.20
+	"Ohio"	"39"	"November"	"11"	78	10801	7.22
+	"Ohio"	"39"	"December"	"12"	72	10901	6.60
+	"Oklahoma"	"40"	"January"	"1"	35	4253	8.23
+	"Oklahoma"	"40"	"February"	"2"	32	3732	8.57
+	"Oklahoma"	"40"	"March"	"3"	33	4141	7.97
+	"Oklahoma"	"40"	"April"	"4"	22	3875	5.68
+	"Oklahoma"	"40"	"May"	"5"	26	4194	6.20
+	"Oklahoma"	"40"	"June"	"6"	20	4042	4.95
+	"Oklahoma"	"40"	"July"	"7"	33	4348	7.59
+	"Oklahoma"	"40"	"August"	"8"	31	4577	6.77
+	"Oklahoma"	"40"	"September"	"9"	31	4237	7.32
+	"Oklahoma"	"40"	"October"	"10"	31	4288	7.23
+	"Oklahoma"	"40"	"November"	"11"	25	4053	6.17
+	"Oklahoma"	"40"	"December"	"12"	31	4060	7.64
+	"Oregon"	"41"	"January"	"1"	17	3510	4.84 (Unreliable)
+	"Oregon"	"41"	"February"	"2"	14	3107	4.51 (Unreliable)
+	"Oregon"	"41"	"March"	"3"	16	3605	4.44 (Unreliable)
+	"Oregon"	"41"	"April"	"4"	12	3359	3.57 (Unreliable)
+	"Oregon"	"41"	"May"	"5"	11	3679	2.99 (Unreliable)
+	"Oregon"	"41"	"June"	"6"	11	3647	3.02 (Unreliable)
+	"Oregon"	"41"	"July"	"7"	13	3731	3.48 (Unreliable)
+	"Oregon"	"41"	"August"	"8"	14	3902	3.59 (Unreliable)
+	"Oregon"	"41"	"September"	"9"	12	3442	3.49 (Unreliable)
+	"Oregon"	"41"	"October"	"10"	22	3548	6.20
+	"Oregon"	"41"	"November"	"11"	23	3344	6.88
+	"Oregon"	"41"	"December"	"12"	13	3314	3.92 (Unreliable)
+	"Pennsylvania"	"42"	"January"	"1"	73	11066	6.60
+	"Pennsylvania"	"42"	"February"	"2"	68	9982	6.81
+	"Pennsylvania"	"42"	"March"	"3"	52	11435	4.55
+	"Pennsylvania"	"42"	"April"	"4"	62	10753	5.77
+	"Pennsylvania"	"42"	"May"	"5"	74	11808	6.27
+	"Pennsylvania"	"42"	"June"	"6"	83	11527	7.20
+	"Pennsylvania"	"42"	"July"	"7"	74	11975	6.18
+	"Pennsylvania"	"42"	"August"	"8"	89	12167	7.31
+	"Pennsylvania"	"42"	"September"	"9"	51	11508	4.43
+	"Pennsylvania"	"42"	"October"	"10"	73	11729	6.22
+	"Pennsylvania"	"42"	"November"	"11"	57	10665	5.34
+	"Pennsylvania"	"42"	"December"	"12"	48	11058	4.34
+	"Rhode Island"	"44"	"January"	"1"	Suppressed	836	Suppressed
+	"Rhode Island"	"44"	"February"	"2"	Suppressed	815	Suppressed
+	"Rhode Island"	"44"	"March"	"3"	Suppressed	887	Suppressed
+	"Rhode Island"	"44"	"April"	"4"	Suppressed	884	Suppressed
+	"Rhode Island"	"44"	"May"	"5"	Suppressed	926	Suppressed
+	"Rhode Island"	"44"	"June"	"6"	Suppressed	836	Suppressed
+	"Rhode Island"	"44"	"July"	"7"	Suppressed	917	Suppressed
+	"Rhode Island"	"44"	"August"	"8"	Suppressed	970	Suppressed
+	"Rhode Island"	"44"	"September"	"9"	Suppressed	900	Suppressed
+	"Rhode Island"	"44"	"October"	"10"	Suppressed	908	Suppressed
+	"Rhode Island"	"44"	"November"	"11"	Suppressed	813	Suppressed
+	"Rhode Island"	"44"	"December"	"12"	Suppressed	814	Suppressed
+	"South Carolina"	"45"	"January"	"1"	31	4745	6.53
+	"South Carolina"	"45"	"February"	"2"	28	4165	6.72
+	"South Carolina"	"45"	"March"	"3"	53	4660	11.37
+	"South Carolina"	"45"	"April"	"4"	34	4489	7.57
+	"South Carolina"	"45"	"May"	"5"	26	4744	5.48
+	"South Carolina"	"45"	"June"	"6"	37	4494	8.23
+	"South Carolina"	"45"	"July"	"7"	35	4822	7.26
+	"South Carolina"	"45"	"August"	"8"	30	5156	5.82
+	"South Carolina"	"45"	"September"	"9"	36	4910	7.33
+	"South Carolina"	"45"	"October"	"10"	28	4889	5.73
+	"South Carolina"	"45"	"November"	"11"	28	4719	5.93
+	"South Carolina"	"45"	"December"	"12"	37	4876	7.59
+	"South Dakota"	"46"	"January"	"1"	Suppressed	999	Suppressed
+	"South Dakota"	"46"	"February"	"2"	Suppressed	859	Suppressed
+	"South Dakota"	"46"	"March"	"3"	Suppressed	1048	Suppressed
+	"South Dakota"	"46"	"April"	"4"	Suppressed	1000	Suppressed
+	"South Dakota"	"46"	"May"	"5"	Suppressed	1061	Suppressed
+	"South Dakota"	"46"	"June"	"6"	15	1032	14.53 (Unreliable)
+	"South Dakota"	"46"	"July"	"7"	Suppressed	1020	Suppressed
+	"South Dakota"	"46"	"August"	"8"	10	1010	9.90 (Unreliable)
+	"South Dakota"	"46"	"September"	"9"	Suppressed	993	Suppressed
+	"South Dakota"	"46"	"October"	"10"	Suppressed	1016	Suppressed
+	"South Dakota"	"46"	"November"	"11"	Suppressed	908	Suppressed
+	"South Dakota"	"46"	"December"	"12"	Suppressed	947	Suppressed
+	"Tennessee"	"47"	"January"	"1"	44	6697	6.57
+	"Tennessee"	"47"	"February"	"2"	39	6072	6.42
+	"Tennessee"	"47"	"March"	"3"	34	6807	4.99
+	"Tennessee"	"47"	"April"	"4"	45	6337	7.10
+	"Tennessee"	"47"	"May"	"5"	55	6800	8.09
+	"Tennessee"	"47"	"June"	"6"	47	6567	7.16
+	"Tennessee"	"47"	"July"	"7"	43	7016	6.13
+	"Tennessee"	"47"	"August"	"8"	39	7335	5.32
+	"Tennessee"	"47"	"September"	"9"	59	6845	8.62
+	"Tennessee"	"47"	"October"	"10"	53	7008	7.56
+	"Tennessee"	"47"	"November"	"11"	53	6629	8.00
+	"Tennessee"	"47"	"December"	"12"	44	6638	6.63
+	"Texas"	"48"	"January"	"1"	181	31911	5.67
+	"Texas"	"48"	"February"	"2"	140	28552	4.90
+	"Texas"	"48"	"March"	"3"	167	30737	5.43
+	"Texas"	"48"	"April"	"4"	163	28814	5.66
+	"Texas"	"48"	"May"	"5"	165	31014	5.32
+	"Texas"	"48"	"June"	"6"	164	31240	5.25
+	"Texas"	"48"	"July"	"7"	168	32772	5.13
+	"Texas"	"48"	"August"	"8"	218	34415	6.33
+	"Texas"	"48"	"September"	"9"	197	32903	5.99
+	"Texas"	"48"	"October"	"10"	163	33292	4.90
+	"Texas"	"48"	"November"	"11"	161	31561	5.10
+	"Texas"	"48"	"December"	"12"	187	31413	5.95
+	"Utah"	"49"	"January"	"1"	26	3706	7.02
+	"Utah"	"49"	"February"	"2"	19	3528	5.39 (Unreliable)
+	"Utah"	"49"	"March"	"3"	19	3951	4.81 (Unreliable)
+	"Utah"	"49"	"April"	"4"	25	3920	6.38
+	"Utah"	"49"	"May"	"5"	23	4120	5.58
+	"Utah"	"49"	"June"	"6"	15	4050	3.70 (Unreliable)
+	"Utah"	"49"	"July"	"7"	30	4246	7.07
+	"Utah"	"49"	"August"	"8"	23	4322	5.32
+	"Utah"	"49"	"September"	"9"	14	3908	3.58 (Unreliable)
+	"Utah"	"49"	"October"	"10"	16	4145	3.86 (Unreliable)
+	"Utah"	"49"	"November"	"11"	19	3686	5.15 (Unreliable)
+	"Utah"	"49"	"December"	"12"	28	3627	7.72
+	"Vermont"	"50"	"January"	"1"	Suppressed	420	Suppressed
+	"Vermont"	"50"	"February"	"2"	Suppressed	385	Suppressed
+	"Vermont"	"50"	"March"	"3"	Suppressed	473	Suppressed
+	"Vermont"	"50"	"April"	"4"	Suppressed	431	Suppressed
+	"Vermont"	"50"	"May"	"5"	Suppressed	442	Suppressed
+	"Vermont"	"50"	"June"	"6"	Suppressed	471	Suppressed
+	"Vermont"	"50"	"July"	"7"	Suppressed	513	Suppressed
+	"Vermont"	"50"	"August"	"8"	Suppressed	508	Suppressed
+	"Vermont"	"50"	"September"	"9"	Suppressed	438	Suppressed
+	"Vermont"	"50"	"October"	"10"	Suppressed	482	Suppressed
+	"Vermont"	"50"	"November"	"11"	Suppressed	426	Suppressed
+	"Vermont"	"50"	"December"	"12"	Suppressed	443	Suppressed
+	"Virginia"	"51"	"January"	"1"	57	8297	6.87
+	"Virginia"	"51"	"February"	"2"	44	7398	5.95
+	"Virginia"	"51"	"March"	"3"	54	8360	6.46
+	"Virginia"	"51"	"April"	"4"	46	8029	5.73
+	"Virginia"	"51"	"May"	"5"	35	8505	4.12
+	"Virginia"	"51"	"June"	"6"	44	8349	5.27
+	"Virginia"	"51"	"July"	"7"	54	8679	6.22
+	"Virginia"	"51"	"August"	"8"	41	9036	4.54
+	"Virginia"	"51"	"September"	"9"	51	8717	5.85
+	"Virginia"	"51"	"October"	"10"	41	8513	4.82
+	"Virginia"	"51"	"November"	"11"	51	8071	6.32
+	"Virginia"	"51"	"December"	"12"	42	7889	5.32
+	"Washington"	"53"	"January"	"1"	29	7048	4.11
+	"Washington"	"53"	"February"	"2"	39	6406	6.09
+	"Washington"	"53"	"March"	"3"	45	7371	6.11
+	"Washington"	"53"	"April"	"4"	42	7016	5.99
+	"Washington"	"53"	"May"	"5"	36	7368	4.89
+	"Washington"	"53"	"June"	"6"	24	7320	3.28
+	"Washington"	"53"	"July"	"7"	20	7812	2.56
+	"Washington"	"53"	"August"	"8"	39	7800	5.00
+	"Washington"	"53"	"September"	"9"	30	7170	4.18
+	"Washington"	"53"	"October"	"10"	37	7119	5.20
+	"Washington"	"53"	"November"	"11"	28	6930	4.04
+	"Washington"	"53"	"December"	"12"	35	6725	5.20
+	"West Virginia"	"54"	"January"	"1"	10	1564	6.39 (Unreliable)
+	"West Virginia"	"54"	"February"	"2"	15	1428	10.50 (Unreliable)
+	"West Virginia"	"54"	"March"	"3"	Suppressed	1535	Suppressed
+	"West Virginia"	"54"	"April"	"4"	Suppressed	1385	Suppressed
+	"West Virginia"	"54"	"May"	"5"	11	1612	6.82 (Unreliable)
+	"West Virginia"	"54"	"June"	"6"	Suppressed	1522	Suppressed
+	"West Virginia"	"54"	"July"	"7"	10	1593	6.28 (Unreliable)
+	"West Virginia"	"54"	"August"	"8"	13	1684	7.72 (Unreliable)
+	"West Virginia"	"54"	"September"	"9"	10	1450	6.90 (Unreliable)
+	"West Virginia"	"54"	"October"	"10"	18	1585	11.36 (Unreliable)
+	"West Virginia"	"54"	"November"	"11"	Suppressed	1405	Suppressed
+	"West Virginia"	"54"	"December"	"12"	11	1485	7.41 (Unreliable)
+	"Wisconsin"	"55"	"January"	"1"	30	5091	5.89
+	"Wisconsin"	"55"	"February"	"2"	30	4810	6.24
+	"Wisconsin"	"55"	"March"	"3"	37	5436	6.81
+	"Wisconsin"	"55"	"April"	"4"	35	5265	6.65
+	"Wisconsin"	"55"	"May"	"5"	21	5522	3.80
+	"Wisconsin"	"55"	"June"	"6"	33	5480	6.02
+	"Wisconsin"	"55"	"July"	"7"	41	5707	7.18
+	"Wisconsin"	"55"	"August"	"8"	28	5837	4.80
+	"Wisconsin"	"55"	"September"	"9"	39	5391	7.23
+	"Wisconsin"	"55"	"October"	"10"	28	5372	5.21
+	"Wisconsin"	"55"	"November"	"11"	28	5145	5.44
+	"Wisconsin"	"55"	"December"	"12"	42	5042	8.33
+	"Wyoming"	"56"	"January"	"1"	Suppressed	557	Suppressed
+	"Wyoming"	"56"	"February"	"2"	Suppressed	526	Suppressed
+	"Wyoming"	"56"	"March"	"3"	Suppressed	560	Suppressed
+	"Wyoming"	"56"	"April"	"4"	Suppressed	550	Suppressed
+	"Wyoming"	"56"	"May"	"5"	Suppressed	609	Suppressed
+	"Wyoming"	"56"	"June"	"6"	Suppressed	543	Suppressed
+	"Wyoming"	"56"	"July"	"7"	Suppressed	532	Suppressed
+	"Wyoming"	"56"	"August"	"8"	Suppressed	551	Suppressed
+	"Wyoming"	"56"	"September"	"9"	Suppressed	543	Suppressed
+	"Wyoming"	"56"	"October"	"10"	Suppressed	542	Suppressed
+	"Wyoming"	"56"	"November"	"11"	Suppressed	514	Suppressed
+	"Wyoming"	"56"	"December"	"12"	Suppressed	535	Suppressed
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2017-2018 Expanded"
+"Query Parameters:"
+"Title: months"
+"Year of Death: 2018"
+"Group By: State; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd-expanded.html for more information."
+"---"
+"Query Date: Oct 5, 2021 1:10:27 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2017-2018, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current-expanded.html on Oct 5, 2021 1:10:27 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Weight Factors."
