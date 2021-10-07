@@ -1,0 +1,128 @@
+"Notes"	"State"	"State Code"	"Year of Death"	"Year of Death Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"2018"	"2018"	401	57761	6.94
+"Total"	"Alabama"	"01"			401	57761	6.94
+	"Alaska"	"02"	"2018"	"2018"	63	10086	6.25
+"Total"	"Alaska"	"02"			63	10086	6.25
+	"Arizona"	"04"	"2018"	"2018"	461	80723	5.71
+"Total"	"Arizona"	"04"			461	80723	5.71
+	"Arkansas"	"05"	"2018"	"2018"	278	37018	7.51
+"Total"	"Arkansas"	"05"			278	37018	7.51
+	"California"	"06"	"2018"	"2018"	1917	454920	4.21
+"Total"	"California"	"06"			1917	454920	4.21
+	"Colorado"	"08"	"2018"	"2018"	299	62885	4.75
+"Total"	"Colorado"	"08"			299	62885	4.75
+	"Connecticut"	"09"	"2018"	"2018"	146	34725	4.20
+"Total"	"Connecticut"	"09"			146	34725	4.20
+	"Delaware"	"10"	"2018"	"2018"	63	10621	5.93
+"Total"	"Delaware"	"10"			63	10621	5.93
+	"District of Columbia"	"11"	"2018"	"2018"	68	9212	7.38
+"Total"	"District of Columbia"	"11"			68	9212	7.38
+	"Florida"	"12"	"2018"	"2018"	1339	221542	6.04
+"Total"	"Florida"	"12"			1339	221542	6.04
+	"Georgia"	"13"	"2018"	"2018"	889	126172	7.05
+"Total"	"Georgia"	"13"			889	126172	7.05
+	"Hawaii"	"15"	"2018"	"2018"	115	16972	6.78
+"Total"	"Hawaii"	"15"			115	16972	6.78
+	"Idaho"	"16"	"2018"	"2018"	108	21403	5.05
+"Total"	"Idaho"	"16"			108	21403	5.05
+	"Illinois"	"17"	"2018"	"2018"	949	144815	6.55
+"Total"	"Illinois"	"17"			949	144815	6.55
+	"Indiana"	"18"	"2018"	"2018"	549	81646	6.72
+"Total"	"Indiana"	"18"			549	81646	6.72
+	"Iowa"	"19"	"2018"	"2018"	188	37785	4.98
+"Total"	"Iowa"	"19"			188	37785	4.98
+	"Kansas"	"20"	"2018"	"2018"	231	36261	6.37
+"Total"	"Kansas"	"20"			231	36261	6.37
+	"Kentucky"	"21"	"2018"	"2018"	326	53922	6.05
+"Total"	"Kentucky"	"21"			326	53922	6.05
+	"Louisiana"	"22"	"2018"	"2018"	456	59615	7.65
+"Total"	"Louisiana"	"22"			456	59615	7.65
+	"Maine"	"23"	"2018"	"2018"	68	12311	5.52
+"Total"	"Maine"	"23"			68	12311	5.52
+	"Maryland"	"24"	"2018"	"2018"	428	71080	6.02
+"Total"	"Maryland"	"24"			428	71080	6.02
+	"Massachusetts"	"25"	"2018"	"2018"	289	69109	4.18
+"Total"	"Massachusetts"	"25"			289	69109	4.18
+	"Michigan"	"26"	"2018"	"2018"	684	110032	6.22
+"Total"	"Michigan"	"26"			684	110032	6.22
+	"Minnesota"	"27"	"2018"	"2018"	341	67344	5.06
+"Total"	"Minnesota"	"27"			341	67344	5.06
+	"Mississippi"	"28"	"2018"	"2018"	311	37000	8.41
+"Total"	"Mississippi"	"28"			311	37000	8.41
+	"Missouri"	"29"	"2018"	"2018"	465	73269	6.35
+"Total"	"Missouri"	"29"			465	73269	6.35
+	"Montana"	"30"	"2018"	"2018"	55	11513	4.78
+"Total"	"Montana"	"30"			55	11513	4.78
+	"Nebraska"	"31"	"2018"	"2018"	147	25488	5.77
+"Total"	"Nebraska"	"31"			147	25488	5.77
+	"Nevada"	"32"	"2018"	"2018"	219	35682	6.14
+"Total"	"Nevada"	"32"			219	35682	6.14
+	"New Hampshire"	"33"	"2018"	"2018"	42	11995	3.50
+"Total"	"New Hampshire"	"33"			42	11995	3.50
+	"New Jersey"	"34"	"2018"	"2018"	385	101223	3.80
+"Total"	"New Jersey"	"34"			385	101223	3.80
+	"New Mexico"	"35"	"2018"	"2018"	131	23039	5.69
+"Total"	"New Mexico"	"35"			131	23039	5.69
+	"New York"	"36"	"2018"	"2018"	979	226238	4.33
+"Total"	"New York"	"36"			979	226238	4.33
+	"North Carolina"	"37"	"2018"	"2018"	803	118954	6.75
+"Total"	"North Carolina"	"37"			803	118954	6.75
+	"North Dakota"	"38"	"2018"	"2018"	60	10636	5.64
+"Total"	"North Dakota"	"38"			60	10636	5.64
+	"Ohio"	"39"	"2018"	"2018"	938	135134	6.94
+"Total"	"Ohio"	"39"			938	135134	6.94
+	"Oklahoma"	"40"	"2018"	"2018"	353	49800	7.09
+"Total"	"Oklahoma"	"40"			353	49800	7.09
+	"Oregon"	"41"	"2018"	"2018"	178	42188	4.22
+"Total"	"Oregon"	"41"			178	42188	4.22
+	"Pennsylvania"	"42"	"2018"	"2018"	806	135673	5.94
+"Total"	"Pennsylvania"	"42"			806	135673	5.94
+	"Rhode Island"	"44"	"2018"	"2018"	52	10506	4.95
+"Total"	"Rhode Island"	"44"			52	10506	4.95
+	"South Carolina"	"45"	"2018"	"2018"	403	56669	7.11
+"Total"	"South Carolina"	"45"			403	56669	7.11
+	"South Dakota"	"46"	"2018"	"2018"	70	11893	5.89
+"Total"	"South Dakota"	"46"			70	11893	5.89
+	"Tennessee"	"47"	"2018"	"2018"	556	80751	6.89
+"Total"	"Tennessee"	"47"			556	80751	6.89
+	"Texas"	"48"	"2018"	"2018"	2075	378624	5.48
+"Total"	"Texas"	"48"			2075	378624	5.48
+	"Utah"	"49"	"2018"	"2018"	259	47209	5.49
+"Total"	"Utah"	"49"			259	47209	5.49
+	"Vermont"	"50"	"2018"	"2018"	35	5432	6.44
+"Total"	"Vermont"	"50"			35	5432	6.44
+	"Virginia"	"51"	"2018"	"2018"	560	99843	5.61
+"Total"	"Virginia"	"51"			560	99843	5.61
+	"Washington"	"53"	"2018"	"2018"	404	86085	4.69
+"Total"	"Washington"	"53"			404	86085	4.69
+	"West Virginia"	"54"	"2018"	"2018"	127	18248	6.96
+"Total"	"West Virginia"	"54"			127	18248	6.96
+	"Wisconsin"	"55"	"2018"	"2018"	392	64098	6.12
+"Total"	"Wisconsin"	"55"			392	64098	6.12
+	"Wyoming"	"56"	"2018"	"2018"	35	6562	5.33
+"Total"	"Wyoming"	"56"			35	6562	5.33
+"Total"					21498	3791712	5.67
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2017-2018 Expanded"
+"Query Parameters:"
+"Year of Death: 2018"
+"Group By: State; Year of Death"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd-expanded.html for more information."
+"---"
+"Query Date: Oct 6, 2021 9:28:53 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2017-2018, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current-expanded.html on Oct 6, 2021 9:28:53 PM"
+"---"
+Caveats:
+"1. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd-expanded.html#WeightFactors-Totals."
+"2. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd-expanded.html#Weight Factors."
